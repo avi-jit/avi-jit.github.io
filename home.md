@@ -1,12 +1,8 @@
 ---
-author: "John Smith"
-layout: "foobar"
-headline: "Avijit Thawani"
-logo:{"@type":"ImageObject","url":"https://pages-themes.github.io/minimal/assets/img/logo.png"}
-
+"headline": "Avijit Thawani"
 ---
 
-11:47 am
+11:50 am
 
 ![THIS IS ME](https://lh5.googleusercontent.com/4Hb1SPp5b91aNzpFAkaLig_u3jUbg_dM0KDJU8l4r6HlA4CmcDhWmEZuA0miCmRog8Nyxf4B=w16383)
 

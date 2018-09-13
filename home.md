@@ -1,7 +1,4 @@
-![THIS IS ME](/blob/master/G11.jpg)
-
-(https://lh5.googleusercontent.com/4Hb1SPp5b91aNzpFAkaLig_u3jUbg_dM0KDJU8l4r6HlA4CmcDhWmEZuA0miCmRog8Nyxf4B=w16383
-)
+![THIS IS ME](https://github.com/avi-jit/avi-jit.github.io/blob/master/G11.jpg)
 
 I'm Avijit (or **Avi**), a 5th year Master's + Bachelor's (Integrated Dual Degree) student of Computer Science and Engineering at Indian Institute of Technology **(IIT BHU) Varanasi**. I'm currently pursuing my Master's thesis under [Dr. Anil K Singh](http://anilkumarsingh.me/). I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
 

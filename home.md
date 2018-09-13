@@ -1,11 +1,3 @@
----
-"headline": "Avijit Thawani"
----
-
-11:50 am
-
-![THIS IS ME](https://lh5.googleusercontent.com/4Hb1SPp5b91aNzpFAkaLig_u3jUbg_dM0KDJU8l4r6HlA4CmcDhWmEZuA0miCmRog8Nyxf4B=w16383)
-
 I'm Avijit (or **Avi**), a 5th year Master's + Bachelor's (Integrated Dual Degree) student of Computer Science and Engineering at Indian Institute of Technology **(IIT BHU) Varanasi**. I'm currently pursuing my Master's thesis under [Dr. Anil K Singh](http://anilkumarsingh.me/). I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
 
 You may contact me at:   `avijit.thawani.cse14@iitbhu.ac.in`
@@ -14,6 +6,7 @@ Here are a few other pointers to knowing me:
 - [Medium Blog](https://medium.com/@avijitthawani)
 - [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
 - [Resume](https://drive.google.com/file/d/16OJmfVszrmTCTLiBAK6z8kVYHqWH0Wz9/view?usp=sharing)
+- [Github profile](https://github.com/avi-jit/)
 
 You can read more about what I do for fun and work everyday: 
 - [9 to 5 work](https://avi-jit.github.io/work)

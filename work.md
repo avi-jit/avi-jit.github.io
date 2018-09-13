@@ -1,8 +1,3 @@
----
-logo: https://lh4.googleusercontent.com/xfuQ6xm9KPlwAkv4taTqm-lJ58v6G2aQcjua3ZPE4XNH6GQ66YzU_5mgsC1fjYquDuadR821=w16383
-logo: https://lh6.googleusercontent.com/plfq4ccPx-AAwuOKlihIAfN0MkoJGJHNqX1IPW0apKRBLUVWcQrvL1dNOnci5P56A_jdw5g=w16383
----
-
 I believe every individual on earth has the right to _conveniently_ **express** and **access** the amazing ideas and thoughts that others (or they themselves) have, or have ever had. I just work on the convenience part. Things I've worked on or am working on are:
 
 ## Express ideas:
@@ -26,20 +21,23 @@ I used Machine Learning to map sensor readings (accelerometer and gyroscope) to 
 ### Stopping by Woods
 I happened to watch a few movies by Richard Linklater - particularly [Before Sunrise](https://www.youtube.com/watch?v=9v6X-Dytlko), which struck a chord with me. I took up filmmaking as a medium of storytelling - to ask my viewers to get out there and talk their heart out, share the beautiful ideas they have, and hear out others' - that is the essence of living. Since I had no prior experience, I had to teach myself filmmaking over the course of two whole years. Along the way, I scripted and directed a [documentary on a warplane in my campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/), a [comedy sketch video](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), and a romance short film (unreleased). In the spring of 2018, we released the end goal: the 20-minute short film called [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk&index=1&list=LLtEZVFh2Arwg_BjXfz418kA).
 
-In an otherwise scientific living, my detour towards the artistic world of films allowed me the good fortune of working with several phenomenally talented and passionate individuals like [Mrigank Gaur](https://www.youtube.com/channel/UCEvQbmfOHFksKjz71KxexYQ), [Varshan Raj](https://www.youtube.com/channel/UCq0qcvRJMsNigqg4XB5msBg), [Sakshi Patil](https://www.linkedin.com/in/sakshi-patil/), [Harsh Agarwal](https://harsh-agarwal.github.io/), Ankur Goel, and Mayank.
+In an otherwise technical workflow, my detour towards films allowed me the good fortune of working with several phenomenally talented and passionate individuals like [Mrigank Gaur](https://www.youtube.com/channel/UCEvQbmfOHFksKjz71KxexYQ), [Varshan Raj](https://www.youtube.com/channel/UCq0qcvRJMsNigqg4XB5msBg), [Sakshi Patil](https://www.linkedin.com/in/sakshi-patil/), [Harsh Agarwal](https://harsh-agarwal.github.io/), Ankur Goel, and Mayank.
 
 ### Moleskine
 The Moleskine Smart Writing Assistant is a digital pen product that flawlessly converts handwriting to text and images, without any sort of obstructive interference with your intuitive outflow of thoughts. Here is a [cool video](https://www.youtube.com/watch?v=e-bdmV43roQ) showing how it works. Trust me I've been looking for such a solution for a few years now and no other product even comes close. I bought it (for a not-so-modest $220) the moment I saw it in action!
 
 I'm currently exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
 
+P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/).
+
 ## Access ideas:
 ### Opinion Summarization
-Have you ever had to undergo the daunting task of making out what people think about a product based on customer reviews? What about movie reviews? Opinion summarization from user-generated content has such crucial implications in today's world. Think of the social media biases that people develop and how such propaganda can easily act as a _Trump_ card in political campaigns. As part of my undergraduate and master's thesis, I've helped form the biggest dataset of labeled opinions for Amazon product reviews, along with a bunch of baseline methods to solve the same, eg. [Document Vectors](https://github.com/shreyansh26/RevOpiD) and [Implicit Feature Mining](https://github.com/Avee-81/implicit-features-RevOpiD).
+Have you ever had to undergo the daunting task of making out what people think about a product based on customer reviews? What about movie reviews? Opinion summarization from user-generated content has such crucial implications in today's world. Think of the social media biases that people develop and how such propaganda can easily act as a _Trump_ card in political campaigns. As part of my undergraduate and master's thesis, I've helped form the biggest dataset of labeled opinions for Amazon product reviews, with help from [Anubhav](https://www.linkedin.com/in/anubhav-gupta-55b237ba/) and [Mayank](https://www.linkedin.com/in/mayank-panchal-282974109/). Thanks to the efforts of [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/), [Avi Chawla](https://www.linkedin.com/in/avi-chawla-1318aa151/) and [Ayush Sharma](https://www.linkedin.com/in/ayush-sharma-263705148/), we were also able to develop a bunch of baseline methods to solve the problem statement, eg. [Document Vectors](https://github.com/shreyansh26/RevOpiD) and [Implicit Feature Mining](https://github.com/Avee-81/implicit-features-RevOpiD).
 
-With Dr. Julian McAuley acting as co-chair, we hosted a shared task at [IJCNLP 2017](https://sites.google.com/itbhu.ac.in/revopid-2017) (Taiwan) and a workshop at [ACM Hypertext 2018](https://sites.google.com/view/revopid-2018) (Baltimore). 
+I, with my supervisor [Dr. Anil K Singh](http://anilkumarsingh.me/) and [Dr. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), hosted a shared task at [IJCNLP 2017](https://sites.google.com/itbhu.ac.in/revopid-2017) (Taiwan) and a workshop at [ACM Hypertext 2018](https://sites.google.com/view/revopid-2018) (Baltimore). As of today, I continue working on my Master's thesis for using Embedding based methods to tackle opinion mining and summarization.
 
-### Disentangling aspects in Opinions
-I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com). 
+### Disentangling aspects in opinionated text
+I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com). We ran into an interesting problem of disentangling topics in word embeddings, which I continue to work upon, as a possible solution to automatic tagging of documents for future retrieval. [Meta Search](https://diffeo.com/search/) is a startup that provides similar solutions as a searchbar for all your files.
 
 ### K-Note Document Retrieval
+This is yet another project aimed at simplifying information retrieval, by looking not outward but inward for answers. I'm attempting to consolidate lessons learnt from neuroscientific and cognitive studies and from my discussions with [Dr. Puneet Bindlish](https://www.linkedin.com/in/puneetbindlish/) (my course instructor for Integrative Intelligence), into a framework that improves search engine recall performances. I am also being mentored by [Dr. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (Researcher and Inventor at IBM New York).

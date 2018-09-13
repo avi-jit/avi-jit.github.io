@@ -6,7 +6,6 @@ Here are a few other pointers to knowing me:
 - [Medium Blog](https://medium.com/@avijitthawani)
 - [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
 - [Resume](https://drive.google.com/file/d/16OJmfVszrmTCTLiBAK6z8kVYHqWH0Wz9/view?usp=sharing)
-- [Github profile](https://github.com/avi-jit/)
 
 You can read more about what I do for fun and work everyday: 
 - [9 to 5 work](https://avi-jit.github.io/work)

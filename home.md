@@ -7,11 +7,7 @@ Here are a few other pointers to knowing me:
 - [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
 - [Resume](https://drive.google.com/file/d/16OJmfVszrmTCTLiBAK6z8kVYHqWH0Wz9/view?usp=sharing)
 
-You can read more about what I do for fun and work everyday: 
-- [9 to 5 work](https://avi-jit.github.io/work)
-- [5 to 9 work](https://avi-jit.github.io/fun)
-
-The fun part is in there somewhere. I'm working on disentangling it.
+Here's the [work section](https://avi-jit.github.io/work) of my website.
 
 # Updates
 

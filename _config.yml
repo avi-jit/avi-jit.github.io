@@ -1,7 +1,4 @@
 theme: jekyll-theme-minimal
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      headline: "Avijit Thawani"
+title: Avijit Thawani
+description: avijit.thawani.cse14@iitbhu.ac.in
+logo: https://drive.google.com/file/d/1z1FbjDi9AT-A2DyKZpGYDfXzRf9Q1gpe/view?usp=sharing

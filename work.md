@@ -1,3 +1,5 @@
+# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
+
 I believe every individual on earth has the right to _conveniently_ **express** and **access** the amazing ideas and thoughts that others (or they themselves) have, or have ever had. I just work on the convenience part. Things I've worked on or am working on are:
 
 ## Express ideas:

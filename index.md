@@ -7,7 +7,7 @@ You may contact me at:   `avijit.thawani.cse14@iitbhu.ac.in`
 Here are a few other pointers to knowing me:
 - [Medium Blog](https://medium.com/@avijitthawani)
 - [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
-- [Resume](https://drive.google.com/file/d/16OJmfVszrmTCTLiBAK6z8kVYHqWH0Wz9/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1DmuasYJMGGTDW6Lj_vKGP7gz4iG-3pDM/view?usp=sharing)
 
 # Updates
 

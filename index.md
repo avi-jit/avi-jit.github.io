@@ -1,4 +1,4 @@
-# [Homepage](https://avi-jit.github.io/) | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
+# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
 
 I'm Avijit (or **Avi**), a 5th year Master's + Bachelor's (Integrated Dual Degree) student of Computer Science and Engineering at Indian Institute of Technology **(IIT BHU) Varanasi**. I'm currently pursuing my Master's thesis under [Dr. Anil K Singh](http://anilkumarsingh.me/). I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
 

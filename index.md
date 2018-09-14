@@ -9,8 +9,6 @@ Here are a few other pointers to knowing me:
 - [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
 - [Resume](https://drive.google.com/file/d/16OJmfVszrmTCTLiBAK6z8kVYHqWH0Wz9/view?usp=sharing)
 
-Here's the [work section](https://avi-jit.github.io/work) of my website.
-
 # Updates
 
 **21st April 2018:** My long short film [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk&index=1&list=LLtEZVFh2Arwg_BjXfz418kA) is now on YouTube (EDIT: around **45,000 views**). Do watch and hit like if you like!

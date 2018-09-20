@@ -38,7 +38,7 @@ I love playing around with data. Some of my data science and visualization proje
 I and my brother [Siddharth Thawani](https://in.linkedin.com/in/siddharth-thawani) loved cartooning as kids (he still does) and sketched several comics on complicated storylines like pirate attacks, superhero teams, gangster adventures, and ship hijacks.
 
 ## Crafts
-I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. I liked to think of giftmaking as an industry that needs to level up from an art to an engineering scale.
+I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
 
 ## Misc
 As a freshman in college, I tried my hands on all sorts of extra curricular activities:

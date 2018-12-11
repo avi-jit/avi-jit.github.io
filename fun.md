@@ -2,7 +2,7 @@
 
 ## Filmmaking
 I've made a couple of short films and videos in college:
-1. [Stoppping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk&index=1&list=LLtEZVFh2Arwg_BjXfz418kA) - a long short film on conversations.
+1. [Stoppping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk) - a long short film on conversations.
 2. [World War 2 jet in our campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) - a documentary on a very rare artefact inside IIT (BHU) and the fascinating story behind it.
 3. [10 ways LC and Facebook is the same thing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/) - a comedy sketch on how our college hotspot resembles Facebook-ing
 

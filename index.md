@@ -11,7 +11,7 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**21st April 2018:** My long short film [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk&index=1&list=LLtEZVFh2Arwg_BjXfz418kA) is now on YouTube (EDIT: around **45,000 views**). Do watch and hit like if you like!
+**21st April 2018:** My long short film [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk) is now on YouTube (EDIT: around **45,000 views**). Do watch and hit like if you like!
 
 **14th March 2018:** In the summer of 2018, I'll be heading to Northeastern University for an internship under [Dr. Byron Wallace](http://www.byronwallace.com/)'s guidance. See you in Boston!
 

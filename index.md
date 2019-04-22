@@ -5,9 +5,12 @@ I'm Avijit (or **Avi**), a 5th year Master's + Bachelor's (Integrated Dual Degre
 You may contact me at:   `avijit.thawani.cse14@iitbhu.ac.in`
 
 Here are a few other pointers to knowing me:
-- [Medium Blog](https://medium.com/@avijitthawani)
-- [LinkedIn profile](https://www.linkedin.com/in/avijitthawani/)
+- [Medium](https://medium.com/@avijitthawani)
+- [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
 - [Resume](https://drive.google.com/file/d/1WDd2HFjZfeWdG9mBhofliOWKbSleShqW/view?usp=sharing)
+- [Google Scholar](https://scholar.google.co.in/citations?user=i67YV2QAAAAJ&hl=en&oi=ao)
+- [Twitter](https://twitter.com/thawani_avijit)
+
 
 # Updates
 

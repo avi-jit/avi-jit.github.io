@@ -28,9 +28,9 @@ In an otherwise technical workflow, my detour towards films allowed me the good 
 ### Moleskine
 The Moleskine Smart Writing Assistant is a digital pen product that flawlessly converts handwriting to text and images, without any sort of obstructive interference with your intuitive outflow of thoughts. Here is a [cool video](https://www.youtube.com/watch?v=e-bdmV43roQ) showing how it works. Trust me I've been looking for such a solution for a few years now and no other product even comes close. I bought it (for a not-so-modest $220) the moment I saw it in action!
 
-I'm currently exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
+I was previously exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
 
-P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/).
+P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/). Here's a [presentation](https://docs.google.com/presentation/d/1WJBKQ1_ocZ9Wg_HViBDJmv0MPjXiqZRxy4xXx4Jtjhw/edit?usp=sharing) I designed for Flipkart, on the same.
 
 ## Access ideas:
 ### Opinion Summarization
@@ -41,5 +41,5 @@ I, with my supervisor [Dr. Anil K Singh](http://anilkumarsingh.me/) and [Dr. Jul
 ### Disentangling aspects in opinionated text
 I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com). We ran into an interesting problem of disentangling topics in word embeddings, which I continue to work upon, as a possible solution to automatic tagging of documents for future retrieval. [Meta Search](https://diffeo.com/search/) is a startup that provides similar solutions as a searchbar for all your files.
 
-### K-Note Document Retrieval
-This is yet another project aimed at simplifying information retrieval, by looking not outward but inward for answers. I'm attempting to consolidate lessons learnt from neuroscientific and cognitive studies and from my discussions with [Dr. Puneet Bindlish](https://www.linkedin.com/in/puneetbindlish/) (my course instructor for Integrative Intelligence), into a framework that improves search engine recall performances. I am also being mentored by [Dr. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (Researcher and Inventor at IBM New York).
+### Word Association for Word Embeddings
+Based on my discussion with [Dr. Puneet Bindlish](https://www.linkedin.com/in/puneetbindlish/) (my course instructor for Integrative Intelligence) and active mentorship by [Dr. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (Researcher and Inventor at IBM New York), I played around with a novel method of evaluating pretrained word vectors with the help of massive word association datasets like the [SWOW](http://www.smallworldofwords.com/new/visualize/) (Small World of Words). Our work was accepted as a poster at the third RepEval workshop, collocated with NAACL conference 2019.

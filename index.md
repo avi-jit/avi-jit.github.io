@@ -1,8 +1,8 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
 
-I'm Avijit (or **Avi**), a 5th year Master's + Bachelor's (Integrated Dual Degree) student of Computer Science and Engineering at Indian Institute of Technology **(IIT BHU) Varanasi**. I'm currently pursuing my Master's thesis under [Dr. Anil K Singh](http://anilkumarsingh.me/). I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
+I'm Avijit (or **Avi**), an incoming PhD student at USC / University of Southern California (Department of Computer Science at the USC Viterbi School of Engineering). Previously, I completed my Bachelors and Masters of Technology in Computer Science at the Indian Institute of Technology (IIT BHU) Varanasi. I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
 
-You may contact me at:   `avijit.thawani.cse14@iitbhu.ac.in`
+You may contact me at:   `thawani@usc.edu`
 
 Here are a few other pointers to knowing me:
 - [Medium](https://medium.com/@avijitthawani)
@@ -14,10 +14,20 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**June 2019:** Joining University of Southern California as a PhD student. I'll be working with [Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Jay Pujara](https://www.jaypujara.org) at the [Center on Knowledge Graphs](http://usc-isi-i2.github.io/home/), Information Sciences Institute, Los Angeles. Looking forward to the [DARPA Machine Commonsense](https://www.darpa.mil/program/machine-common-sense) project. I will be supported by the Annenberg Fellowship!
+
+**May 2019:** Defended my Master's thesis on Opinion Mining with word and contextualized embeddings. Bidding adieu to a great five years at IIT BHU :)
+
+**May 2019:** Paper accepted (co-authors: Biplav Srivastava and Anil Kumar Singh) at the [RepEval 2019](https://repeval2019.github.io/program/) workshop. See you at [NAACL](https://naacl2019.org), June 2-7, Minneapolis!
+
+**January 2019:** Accepted into the PhD programs at University of Southern California, Los Angeles and Northeastern University, Boston.
+
+**December 2018:** Three amazing job offers from Samsung, Myntra, and Headout.
+
 **21st April 2018:** My long short film [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk) is now on YouTube (EDIT: around **45,000 views**). Do watch and hit like if you like!
 
-**14th March 2018:** In the summer of 2018, I'll be heading to Northeastern University for an internship under [Dr. Byron Wallace](http://www.byronwallace.com/)'s guidance. See you in Boston!
+**March 2018:** In the summer of 2018, I'll be heading to Northeastern University for an internship under [Dr. Byron Wallace](http://www.byronwallace.com/)'s guidance. See you in Boston!
 
-**2nd Feb 2018:** We're done with the shooting of my upcoming short film (tentatively) titled _Stopping by woods_. So excited to begin editing as soon as my mid semesters end!
+**Feb 2018:** We're done with the shooting of my upcoming short film (tentatively) titled _Stopping by woods_. So excited to begin editing as soon as my mid semesters end!
 
-**15th December 2017:** We're organising the [2nd workshop on Review Opinion Diversification](https://sites.google.com/view/revopid-2018) at ACM Hypertext (9-12 July, 2018). See you in Baltimore!
+**December 2017:** We're organising the [2nd workshop on Review Opinion Diversification](https://sites.google.com/view/revopid-2018) at ACM Hypertext (9-12 July, 2018). See you in Baltimore!

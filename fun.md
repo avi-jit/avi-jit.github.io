@@ -22,28 +22,28 @@ I've been around a lot, and wish to continue to do so. Some of the cities I've b
 ## Writing
 I write articles, stories, newspapers, blogs, songs and novels. Some of them are:
 1. **Sci-fi novel**: DNA Revolution
-2. **Short stories book**: Martyrs' Horizon
-3. **Newspaper**: Articles for college newsletter, school newspaper
-4. **Rap songs**: Variants of Eminem's released versions like Rap God and Fast Lane.
-5. **Blog**: I've now switched to blogging on [Medium](https://medium.com/@avijitthawani)
+2. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
+3. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
+4. **Others**: Rap Songs, Standup comedy 
+5. **Blog**: I've now switched to blogging on [Medium](https://medium.com/@avijitthawani) and [Twitter](https://twitter.com/thawani_avijit)
 
 ## Data viz
 I love playing around with data. Some of my data science and visualization projects have been:
-1. Intranet portal of student pics
-2. Samsung employee entry/exit data
-3. Internet usage statistics in campus
-4. Singapore weather data modeling
+1. Intranet portal of student pics (FaceTrash)
+2. Samsung employee entry/exit data (Knox)
+3. Internet usage statistics in campus (Squish)
+4. Singapore weather data modeling (SUTD Smart City)
 
 ## Sketching
-I and my brother [Siddharth Thawani](https://in.linkedin.com/in/siddharth-thawani) loved cartooning as kids (he still does) and sketched several comics on complicated storylines like pirate attacks, superhero teams, gangster adventures, and ship hijacks.
+I and my brother [Siddharth Thawani](https://in.linkedin.com/in/siddharth-thawani) loved cartooning as kids (he still does) and sketched several comics.
 
 ## Crafts
 I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
 
 ## Misc
 As a freshman in college, I tried my hands on all sorts of extra curricular activities:
-1. **Street Play**: on blood donation at a slum colony near our campus.
-2. **Dance**: ranging from Bhangra to Pop to Govinda dance, we did it all!
-3. **Robotics**: stood 1st at a robot making and handling event - my best day in life so far with several ups and downs and an amazing climax! 
+1. **Street Play**: on blood donation at a slum near campus
+2. **Dance**: ranging from Bhangra to David Guetta and Govinda dance, we did it all!
+3. **Robotics**: stood 1st at a robot making and handling event - [the best day in my life](https://www.facebook.com/avijit.thawani/posts/796281477100748). If I scripted the day, I couldn't have made it any better (unless you allow me to script Emma Watson into the story) 
 4. **Skit**: on media corruption. I played Rahul Gandhi!
-5. **Contraption**: at a contest called Goldberg's Alley. For those who don't know what a contraption is, think of the set of traps that Tom often set up for Jerry to step into. One action leads to another and finally resulting in a reaction.
+5. **Contraption**: at a contest called Goldberg's Alley. For those who don't know what a contraption is, think of the set of traps that Tom often set up for Jerry to step into. One action leads to another and finally resulting in a reaction, which is usually Tom-caught-up-in-his-own-trap.

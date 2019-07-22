@@ -2,7 +2,42 @@
 
 I believe every individual on earth has the right to _conveniently_ **express** and **access** the amazing ideas and thoughts that others (or they themselves) have, or have ever had. I just work on the convenience part. Things I've worked on or am working on are:
 
+
+
+## Access ideas:
+### Machine Commonsense
+Upcoming project under the [DARPA MCS](https://www.fbo.gov/index?s=opportunity&mode=form&id=e0af8be66174c6624dcf80e638b2d79b&tab=core&_cview=0) program.
+
+### Contextual Search
+I'm currently (as of Summer 2019) working on an [ISWC](https://iswc2019.semanticweb.org) Semantic Web challenge with the mission of matching Tabular Data to Knowledge Graphs. An overwhelming majority of information today is in the form of  relational tables, while the world has already begun a transition towards Graph Databses [Forbes article](https://www.forbes.com/sites/cognitiveworld/2019/07/18/graph-databases-go-mainstream/#7b1377a179df). To be able to dig through the data online, searching for entities across tables will need a lot of contextual cues. Our team at [Information Sciences Institute](https://usc-isi-i2.github.io/home/) is working on developing robust engineering solutions to this problem of table wikifaction.
+
+### Word Association for Word Embeddings
+Based on my discussion with [Dr. Puneet Bindlish](https://www.linkedin.com/in/puneetbindlish/) (my course instructor for Integrative Intelligence) and active mentorship by [Dr. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (Researcher and Inventor at IBM New York), I played around with a novel method of evaluating pretrained word vectors with the help of massive word association datasets like the [SWOW](http://www.smallworldofwords.com/new/visualize/) (Small World of Words). Our work was accepted as a poster at the [third RepEval workshop](https://repeval2019.github.io), collocated with [NAACL 2019 conference](https://naacl2019.org). Here's the [Link to Paper](https://www.aclweb.org/anthology/W19-2006) and a [blog](https://medium.com/@avijitthawani/word-association-d6f7fbe71315) about the idea behind it.
+
+### Opinion Summarization
+Have you ever had to undergo the daunting task of making out what people think about a product based on customer reviews? What about movie reviews? Opinion summarization from user-generated content has such crucial implications in today's world. Think of the social media biases that people develop and how such propaganda can easily act as a _Trump_ card in political campaigns. As part of my undergraduate and master's thesis, I've helped form the biggest dataset of labeled opinions for Amazon product reviews, with help from [Anubhav](https://www.linkedin.com/in/anubhav-gupta-55b237ba/) and [Mayank](https://www.linkedin.com/in/mayank-panchal-282974109/). Thanks to the efforts of [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/), [Avi Chawla](https://www.linkedin.com/in/avi-chawla-1318aa151/) and [Ayush Sharma](https://www.linkedin.com/in/ayush-sharma-263705148/), we were also able to develop a bunch of baseline methods to solve the problem statement, eg. [Document Vectors](https://github.com/shreyansh26/RevOpiD) and [Implicit Feature Mining](https://github.com/Avee-81/implicit-features-RevOpiD).
+
+I, with my supervisor [Dr. Anil K Singh](http://anilkumarsingh.me/) and [Dr. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), hosted a shared task at [IJCNLP 2017](https://sites.google.com/itbhu.ac.in/revopid-2017) (Taiwan) and a workshop at [ACM Hypertext 2018](https://sites.google.com/view/revopid-2018) (Baltimore). As of today, I have successfully defended my [Master's thesis](https://www.overleaf.com/read/rbkjsbrvmwfx) for using Embedding based methods to tackle opinion mining and summarization.
+
+### Disentangling aspects in opinionated text
+I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com).Our work has been accepted at the [Machine Learning for Healthcare Conference](https://www.mlforhc.org/accepted-papers). We ran into an interesting problem of disentangling topics in word embeddings, which I continue to work upon, as a possible solution to automatic tagging of documents for future retrieval. [Meta Search](https://diffeo.com/search/) is a startup that provides similar solutions as a searchbar for all your files.
+
+
+
+
 ## Express ideas:
+### Stopping by Woods
+I happened to watch a few movies by Richard Linklater - particularly [Before Sunrise](https://www.youtube.com/watch?v=9v6X-Dytlko), which struck a chord with me. I took up filmmaking as a medium of storytelling - to ask my viewers to get out there and talk their heart out, share the beautiful ideas they have, and hear out others' - that is the essence of living. Since I had no prior experience, I had to teach myself filmmaking over the course of two whole years. Along the way, I scripted and directed a [documentary on a warplane in my campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/), a [comedy sketch video](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), and a romance short film (unreleased). In the spring of 2018, we released the end goal: the 20-minute short film called [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk).
+
+In an otherwise technical workflow, my detour towards films allowed me the good fortune of working with several phenomenally talented and passionate individuals like [Mrigank Gaur](https://www.youtube.com/channel/UCEvQbmfOHFksKjz71KxexYQ), [Varshan Raj](https://www.youtube.com/channel/UCq0qcvRJMsNigqg4XB5msBg), [Sakshi Patil](https://www.linkedin.com/in/sakshi-patil/), [Harsh Agarwal](https://harsh-agarwal.github.io/), [Jaseel Muhammed Keloth](https://www.instagram.com/jazeelmuhammedkeloth/), Ankur Goel, Alok Priyadarshi, Shubham Shekhar Jha, Visharad Jalan, Aanshi Mehta, and Mayank.
+
+### Moleskine
+The Moleskine Smart Writing Assistant is a digital pen product that flawlessly converts handwriting to text and images, without any sort of obstructive interference with your intuitive outflow of thoughts. Here is a [cool video](https://www.youtube.com/watch?v=e-bdmV43roQ) showing how it works. Trust me I've been looking for such a solution for a few years now and no other product even comes close. I bought it (for a not-so-modest $220) the moment I saw it in action!
+
+I was previously exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
+
+P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/). Here's a [presentation](https://docs.google.com/presentation/d/1WJBKQ1_ocZ9Wg_HViBDJmv0MPjXiqZRxy4xXx4Jtjhw/edit?usp=sharing) I designed for Flipkart, on the same.
+
 ### DesignAR
 I and [Harsh](http://harsh-agarwal.github.io/) set about to develop an Augmented Reality smartphone application where people could visualize their designs and let it interact with the real world. Imagine a fashion desinger who could see how her new design looks on a mannequin without ever printing the fabrics in the first place! We set several milestones before us and cleared them one by one:
 1. Samsung Virtual Reality Appathon - executed an AR Ping Pong Game and stood 4th in campus
@@ -20,26 +55,9 @@ As a course project with [Dr. Hari Prabhat Gupta](https://sites.google.com/site/
 
 I used Machine Learning to map sensor readings (accelerometer and gyroscope) to English alphabets and subsequent training, while [Robin](https://www.linkedin.com/in/robin-khurana-0a3a3ab7/) - my teammate - helped with the Android implementation of it.
 
-### Stopping by Woods
-I happened to watch a few movies by Richard Linklater - particularly [Before Sunrise](https://www.youtube.com/watch?v=9v6X-Dytlko), which struck a chord with me. I took up filmmaking as a medium of storytelling - to ask my viewers to get out there and talk their heart out, share the beautiful ideas they have, and hear out others' - that is the essence of living. Since I had no prior experience, I had to teach myself filmmaking over the course of two whole years. Along the way, I scripted and directed a [documentary on a warplane in my campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/), a [comedy sketch video](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), and a romance short film (unreleased). In the spring of 2018, we released the end goal: the 20-minute short film called [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk).
 
-In an otherwise technical workflow, my detour towards films allowed me the good fortune of working with several phenomenally talented and passionate individuals like [Mrigank Gaur](https://www.youtube.com/channel/UCEvQbmfOHFksKjz71KxexYQ), [Varshan Raj](https://www.youtube.com/channel/UCq0qcvRJMsNigqg4XB5msBg), [Sakshi Patil](https://www.linkedin.com/in/sakshi-patil/), [Harsh Agarwal](https://harsh-agarwal.github.io/), [Jaseel Muhammed Keloth](https://www.instagram.com/jazeelmuhammedkeloth/), Ankur Goel, Alok Priyadarshi, Shubham Shekhar Jha, Visharad Jalan, Aanshi Mehta, and Mayank.
 
-### Moleskine
-The Moleskine Smart Writing Assistant is a digital pen product that flawlessly converts handwriting to text and images, without any sort of obstructive interference with your intuitive outflow of thoughts. Here is a [cool video](https://www.youtube.com/watch?v=e-bdmV43roQ) showing how it works. Trust me I've been looking for such a solution for a few years now and no other product even comes close. I bought it (for a not-so-modest $220) the moment I saw it in action!
 
-I was previously exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
-
-P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/). Here's a [presentation](https://docs.google.com/presentation/d/1WJBKQ1_ocZ9Wg_HViBDJmv0MPjXiqZRxy4xXx4Jtjhw/edit?usp=sharing) I designed for Flipkart, on the same.
-
-## Access ideas:
-### Opinion Summarization
-Have you ever had to undergo the daunting task of making out what people think about a product based on customer reviews? What about movie reviews? Opinion summarization from user-generated content has such crucial implications in today's world. Think of the social media biases that people develop and how such propaganda can easily act as a _Trump_ card in political campaigns. As part of my undergraduate and master's thesis, I've helped form the biggest dataset of labeled opinions for Amazon product reviews, with help from [Anubhav](https://www.linkedin.com/in/anubhav-gupta-55b237ba/) and [Mayank](https://www.linkedin.com/in/mayank-panchal-282974109/). Thanks to the efforts of [Shreyansh Singh](https://www.linkedin.com/in/shreyansh26/), [Avi Chawla](https://www.linkedin.com/in/avi-chawla-1318aa151/) and [Ayush Sharma](https://www.linkedin.com/in/ayush-sharma-263705148/), we were also able to develop a bunch of baseline methods to solve the problem statement, eg. [Document Vectors](https://github.com/shreyansh26/RevOpiD) and [Implicit Feature Mining](https://github.com/Avee-81/implicit-features-RevOpiD).
-
-I, with my supervisor [Dr. Anil K Singh](http://anilkumarsingh.me/) and [Dr. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/), hosted a shared task at [IJCNLP 2017](https://sites.google.com/itbhu.ac.in/revopid-2017) (Taiwan) and a workshop at [ACM Hypertext 2018](https://sites.google.com/view/revopid-2018) (Baltimore). As of today, I continue working on my Master's thesis for using Embedding based methods to tackle opinion mining and summarization.
-
-### Disentangling aspects in opinionated text
-I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com). We ran into an interesting problem of disentangling topics in word embeddings, which I continue to work upon, as a possible solution to automatic tagging of documents for future retrieval. [Meta Search](https://diffeo.com/search/) is a startup that provides similar solutions as a searchbar for all your files.
-
-### Word Association for Word Embeddings
-Based on my discussion with [Dr. Puneet Bindlish](https://www.linkedin.com/in/puneetbindlish/) (my course instructor for Integrative Intelligence) and active mentorship by [Dr. Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (Researcher and Inventor at IBM New York), I played around with a novel method of evaluating pretrained word vectors with the help of massive word association datasets like the [SWOW](http://www.smallworldofwords.com/new/visualize/) (Small World of Words). Our work was accepted as a poster at the third RepEval workshop, collocated with NAACL conference 2019.
+## Other Projects:
+### Neural Turing Machines
+Thanks to the culture of competitive programming that takes over Indian universities before the campus placements (which coincided with my PhD application season), I was forced to be simultaneously thinking about Algorithms in the day and Machine Learning in the night. This led me to shamelessly take up another side project in the midst of all the other deadlines I had. I tried to study the tools that Neural Networks possess with respect to those that competitive programmers use as simple programming constructs. Here's the [Gitub repo](https://github.com/avi-jit/NTM) of my Jupyter notebooks, and [a blog about Neural Turing Machines](https://medium.com/@avijitthawani/neural-turing-machines-fd78212bacbe) which I learned is an active field of relevant research, as well as [another blog on the insights from my experiments](https://medium.com/@avijitthawani/all-sum-and-no-product-makes-jack-a-dull-bot-d9aac69f38e8).

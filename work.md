@@ -36,7 +36,7 @@ The Moleskine Smart Writing Assistant is a digital pen product that flawlessly c
 
 I was previously exploring ways to integrate such technology into a more AI-enabled note-taking system, and also to expand its capabilties of digitizing stuff. For instance, imagine sketching mind-maps on your notebook and being able to edit it later on a Slideshow!
 
-P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/). Here's a [presentation](https://docs.google.com/presentation/d/1WJBKQ1_ocZ9Wg_HViBDJmv0MPjXiqZRxy4xXx4Jtjhw/edit?usp=sharing) I designed for Flipkart, on the same.
+P.S. for those interested in alternatives, do check out: [Leuchtturm](https://www.youtube.com/watch?v=IXiZgVaRkSM), [Livescribe](https://www.livescribe.com/en-us/), [Iskn](https://www.iskn.co/) slate with magnet ring, and [Whitelines](https://www.whitelinespaper.com/). Here's a [presentation](https://docs.google.com/presentation/d/1WJBKQ1_ocZ9Wg_HViBDJmv0MPjXiqZRxy4xXx4Jtjhw/edit?usp=sharing) I designed for Flipkart APM, on the same.
 
 ### DesignAR
 I and [Harsh](http://harsh-agarwal.github.io/) set about to develop an Augmented Reality smartphone application where people could visualize their designs and let it interact with the real world. Imagine a fashion desinger who could see how her new design looks on a mannequin without ever printing the fabrics in the first place! We set several milestones before us and cleared them one by one:

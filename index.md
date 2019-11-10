@@ -7,7 +7,7 @@ You may contact me at:   `thawani@usc.edu`
 Here are a few other pointers to knowing me:
 - [Medium](https://medium.com/@avijitthawani)
 - [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
-- [Resume](https://drive.google.com/file/d/1WDd2HFjZfeWdG9mBhofliOWKbSleShqW/view?usp=sharing)
+- [Resume](https://www.overleaf.com/read/pfvrgckrmmqv)
 - [Google Scholar](https://scholar.google.com/citations?user=8KleQAgAAAAJ&hl=en&oi=ao)
 - [Twitter](https://twitter.com/thawani_avijit)
 

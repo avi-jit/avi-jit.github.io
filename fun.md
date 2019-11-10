@@ -9,17 +9,18 @@ I've made a couple of short films and videos in college:
 
 ## Travel
 I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
-1. **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
-2. **Singapore**
-3. **Kuala Lumpur**
-4. **South Korea**: Seoul, Incheon
-5. Southeast India: Pondicherry, Madras, Auroville, Rameshwaram
-6. Southwest India: Bangalore, Coorg
-7. West India: Mumbai, Goa, Pune, Shirdi
-8. East India: Puri, Kolkata
-9. North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
-10. Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
-11. **Nepal**: Kathmandu, Pokhara
+- **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
+- **New Zealand**: Auckland, Queenstown, Wanaka, Makarora
+- **Singapore**
+- **Kuala Lumpur**
+- **South Korea**: Seoul, Incheon
+- Southeast India: Pondicherry, Madras, Auroville, Rameshwaram
+- Southwest India: Bangalore, Coorg
+- West India: Mumbai, Goa, Pune, Shirdi
+- East India: Puri, Kolkata
+- North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
+- Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
+- **Nepal**: Kathmandu, Pokhara
 
 ## Writing
 I write articles, stories, newspapers, blogs, songs and novels. Some of them are:

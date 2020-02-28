@@ -1,8 +1,8 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
 
-I'm Avijit (or **Avi**), a PhD student at USC / University of Southern California (Department of Computer Science at the USC Viterbi School of Engineering). Previously, I completed my Bachelors and Masters of Technology in Computer Science at the Indian Institute of Technology (IIT BHU) Varanasi. I'm interested in challenging projects and love to collaborate with people who can keep up with my enthusiasm for work!
+I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work at the intersection of Machine Learning, Natural Language Processing, and Knowledge Graphs with [Dr Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Dr Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). My undergrad was at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. 
 
-You may contact me at:   `thawani@usc.edu`
+Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
 
 Here are a few other pointers to knowing me:
 - [Medium](https://medium.com/@avijitthawani)
@@ -14,13 +14,13 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**October 2019:** Presenting a [challenge system paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) at the International Semantic Web Conference ([ISWC](http://iswc2019.semanticweb.org)) 2019, Auckland, New Zealand. Here's a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) that I wrote about my experiences!
+**October 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge]() at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
 
 **October 2019:** Selected as a volunteer for [TechCrunch Disrupt SF 2019](https://techcrunch.com/events/disrupt-sf-2019/)!
 
-**September 2019:** Attended [SoCalNLP 2019](https://socalnlp.github.io/symp19/index.html). Hope to share soon the lessons that I learnt.
+**September 2019:** Attended [SoCalNLP 2019](https://socalnlp.github.io/symp19/index.html).
 
-**September 2019:** I won a travel grant to attend [WeCNLP 2019](http://wecnlp.ai) at Facebook HQ, Menlo Park! The view up there is pretty amazing.
+**September 2019:** I won a travel grant to attend [WeCNLP 2019](http://wecnlp.ai) at Facebook HQ, Menlo Park. The view up there is pretty amazing!
 
 **August 2019:** Presenting at [MLHC 2019](https://www.mlforhc.org), Michigan, a joint work with [Byron Wallace](http://byronwallace.com) on [studying gender bias in online physician reviews](https://www.mlforhc.org/s/Thawani.pdf).
 

@@ -10,6 +10,7 @@ I've made a couple of short films and videos in college:
 ## Travel
 I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
 - **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
+- **China**: Beijing
 - **New Zealand**: Auckland, Queenstown, Wanaka, Makarora
 - **Singapore**
 - **Kuala Lumpur**

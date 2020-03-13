@@ -14,7 +14,7 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**October 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge]() at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
+**October 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
 
 **October 2019:** Selected as a volunteer for [TechCrunch Disrupt SF 2019](https://techcrunch.com/events/disrupt-sf-2019/)!
 

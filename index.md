@@ -1,6 +1,7 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
 
-I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work at the intersection of Machine Learning, Natural Language Processing, and Knowledge Graphs with [Dr Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Dr Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). My undergrad was at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. 
+I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work at the intersection of Machine Learning, Natural Language Processing, and Knowledge Graphs with [Dr Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Dr Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)), currently focussing on the [DARPA program](https://www.fbo.gov/index?s=opportunity&mode=form&id=e0af8be66174c6624dcf80e638b2d79b&tab=core&_cview=0) for Machine Commonsense.
+ I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. 
 
 Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
 

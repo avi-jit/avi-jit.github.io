@@ -15,6 +15,10 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**July 2020:** Attending [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/schedule.html) and [ACL 2020](https://acl2020.org/). I presented my (ongoing) [work on number representations](https://www.youtube.com/watch?v=4v0MXfl1c_w) at the former. Here's a [conference report](https://medium.com/@vered1986/highlights-of-acl-2020-4ef9f27a4f0c) by [Dr Vered Shwartz](https://vered1986.github.io/) on the latter.
+
+**April 2020:** I've been selected to attend [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2020/): Machine Learning Summer School along with 179 more students (out of 1300+ applicants).
+
 **October 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
 
 **October 2019:** Selected as a volunteer for [TechCrunch Disrupt SF 2019](https://techcrunch.com/events/disrupt-sf-2019/)!

@@ -15,7 +15,7 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**July 2020:** At ISI' Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations ([poster](https://drive.google.com/file/d/1-4ygHP36zX5NG9vqxzSCjXiUAwTel5g5/view?)) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
+**July 2020:** At ISI's Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations ([poster](https://drive.google.com/file/d/1-4ygHP36zX5NG9vqxzSCjXiUAwTel5g5/view?)) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
 
 **June 2020:** I'll be attending [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/schedule.html) and [ACL 2020](https://acl2020.org/). I'll present my (ongoing) work on number representations ([video](https://www.youtube.com/watch?v=4v0MXfl1c_w)) at the former. EDIT: Here's a [conference report](https://medium.com/@vered1986/highlights-of-acl-2020-4ef9f27a4f0c) by [Dr Vered Shwartz](https://vered1986.github.io/) on the latter.
 

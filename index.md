@@ -18,11 +18,16 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**Oct 2020:** My (ongoing) work on number representations was accepted at [West Coast NLP 2020](https://www.wecnlp.ai/wecnlp-2020). Here is the [1-pg abstract (link removed temporarily)](~https://drive.google.com/file/d/1aEu21sTMYvNZp-gOUXpjqgnm34I2mxca/view?). Looking forward to present on 30th October 2020.
+**Oct 2020:** My (ongoing) work on number representations was accepted at [West Coast NLP 2020](https://www.wecnlp.ai/wecnlp-2020). Here is the [1-pg abstract (link removed temporarily)](). Looking forward to present on 30th October 2020.
+<!-- [1-pg abstract (link removed temporarily)](~https://drive.google.com/file/d/1aEu21sTMYvNZp-gOUXpjqgnm34I2mxca/view?) -->
 
-**July 2020:** At ISI's Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations ([poster link removed temporarily](~https://drive.google.com/file/d/1-4ygHP36zX5NG9vqxzSCjXiUAwTel5g5/view?)) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
+**July 2020:** At ISI's Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations ([poster link removed temporarily]()) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
 
-**June 2020:** I'll be attending [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/schedule.html) and [ACL 2020](https://acl2020.org/). I'll present my (ongoing) work on number representations ([video link removed temporarily](~https://www.youtube.com/watch?v=4v0MXfl1c_w)) at the former. EDIT: Here's a [conference report](https://medium.com/@vered1986/highlights-of-acl-2020-4ef9f27a4f0c) by [Dr Vered Shwartz](https://vered1986.github.io/) on the latter.
+<!-- ([poster link removed temporarily](~https://drive.google.com/file/d/1-4ygHP36zX5NG9vqxzSCjXiUAwTel5g5/view?)) -->
+
+**June 2020:** I'll be attending [MLSS 2020](http://mlss.tuebingen.mpg.de/2020/schedule.html) and [ACL 2020](https://acl2020.org/). I'll present my (ongoing) work on number representations ([video link removed temporarily]() at the former. EDIT: Here's a [conference report](https://medium.com/@vered1986/highlights-of-acl-2020-4ef9f27a4f0c) by [Dr Vered Shwartz](https://vered1986.github.io/) on the latter.
+
+<!-- ([video link removed temporarily](~https://www.youtube.com/watch?v=4v0MXfl1c_w)) -->
 
 **April 2020:** I've been selected to attend [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2020/): Machine Learning Summer School along with 179 more students (out of 1300+ applicants).
 

@@ -7,6 +7,21 @@ I've made a couple of short films and videos in college:
 3. [10 ways LC and Facebook is the same thing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/) - a comedy sketch on how our college hotspot resembles Facebook-ing
 4. The Last Date - a cute short flick, that is yet to be compiled and released!
 
+## Data viz
+I love playing around with data. Some of my data science and visualization projects have been:
+1. Intranet portal of student pics (FaceTrash)
+2. Samsung employee entry/exit data (Knox)
+3. Internet usage statistics in campus (Squish)
+4. Singapore weather data modeling (SUTD Smart City)
+5. [US 2020 elections Voter Guide](http://annenberginteractives.com/2020-2021/voting-information-by-state/) with USC Annenberg Media 
+
+## Writing
+I write articles, stories, newspapers, blogs, songs and novels. Some of them are:
+1. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
+2. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
+3. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
+4. **Blog**: I've now switched to blogging on [Medium](https://medium.com/@avijitthawani) and [Twitter](https://twitter.com/thawani_avijit)
+
 ## Travel
 I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
 - **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
@@ -22,20 +37,6 @@ I've been around a lot, and wish to continue to do so. Some of the cities I've b
 - East India: Puri, Kolkata
 - North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
 - Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
-
-## Writing
-I write articles, stories, newspapers, blogs, songs and novels. Some of them are:
-1. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
-2. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
-3. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
-4. **Blog**: I've now switched to blogging on [Medium](https://medium.com/@avijitthawani) and [Twitter](https://twitter.com/thawani_avijit)
-
-## Data viz
-I love playing around with data. Some of my data science and visualization projects have been:
-1. Intranet portal of student pics (FaceTrash)
-2. Samsung employee entry/exit data (Knox)
-3. Internet usage statistics in campus (Squish)
-4. Singapore weather data modeling (SUTD Smart City)
 
 ## Sketching
 I and my brother [Siddharth Thawani](https://www.instagram.com/sidart.thawani/) loved cartooning as kids (he still does) and sketched several comics.

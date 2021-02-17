@@ -1,25 +1,24 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
 
-I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work at the intersection of Machine Learning, Natural Language Processing, and Knowledge Graphs with [Dr Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Dr Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)), currently focussing on the [DARPA program](https://www.fbo.gov/index?s=opportunity&mode=form&id=e0af8be66174c6624dcf80e638b2d79b&tab=core&_cview=0) for Machine Commonsense.
- I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. 
+I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Dr Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Dr Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. 
 
 Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
-
 Here are a few other pointers to knowing me:
-- [Twitter](https://twitter.com/thawani_avijit)
-- [Medium](https://medium.com/@avijitthawani)
-- [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
-- [Resume](https://www.overleaf.com/read/pfvrgckrmmqv)
-- [Google Scholar](https://scholar.google.com/citations?user=8KleQAgAAAAJ)
-- [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242)
-- [DBLP](https://dblp.uni-trier.de/pid/208/4386.html)
-- [ORCID](https://orcid.org/0000-0002-4289-3607)
+[Twitter](https://twitter.com/thawani_avijit); [Medium](https://medium.com/@avijitthawani); [LinkedIn](https://www.linkedin.com/in/avijitthawani/); [Resume](https://www.overleaf.com/read/pfvrgckrmmqv); [Google Scholar](https://scholar.google.com/citations?user=8KleQAgAAAAJ); [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242); [DBLP](https://dblp.uni-trier.de/pid/208/4386.html); [ORCID](https://orcid.org/0000-0002-4289-3607)
 
 
 # Updates
 
+**Jan 2021:** Submitted a paper (link removed temporarily) to [ACL 2021](https://2021.aclweb.org/) on number representations in NLP.
+
+**Dec 2020:**  I'll be interning with [AI2](https://allenai.org/)'s Team [Aristo](https://allenai.org/aristo) in Summer 2021.
+
+**Nov 2020:** Submitted a paper (link removed temporarily) to [NAACL 2021](https://2021.naacl.org/) on number representations in NLP.
+
 **Oct 2020:** My (ongoing) work on number representations was accepted at [West Coast NLP 2020](https://www.wecnlp.ai/wecnlp-2020). Here is the 1-pg abstract (link removed temporarily). Looking forward to present on 30th October 2020.
 <!-- [1-pg abstract (link removed temporarily)](https://drive.google.com/file/d/1aEu21sTMYvNZp-gOUXpjqgnm34I2mxca/view?) -->
+
+**Sept 2020:** We have fundraised registration fees to sponsor four Indian undergrads' attendance at [EMNLP 2020](https://2020.emnlp.org/).
 
 **July 2020:** At ISI's Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations (poster link removed temporarily) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
 

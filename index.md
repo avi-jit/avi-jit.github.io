@@ -9,9 +9,13 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Will follow up with the pdf link and a blog post soon!
+
+**Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://isi.edu/news/story/433) for the ISI Communications team.
+
 **Jan 2021:** Submitted a paper (link removed temporarily) to [ACL 2021](https://2021.aclweb.org/) on number representations in NLP.
 
-**Dec 2020:**  I'll be interning with [AI2](https://allenai.org/)'s Team [Aristo](https://allenai.org/aristo) in Summer 2021.
+**Dec 2020:** I'll be interning with [AI2](https://allenai.org/)'s Team [Aristo](https://allenai.org/aristo) in Summer 2021.
 
 **Nov 2020:** Submitted a paper (link removed temporarily) to [NAACL 2021](https://2021.naacl.org/) on number representations in NLP.
 
@@ -30,15 +34,15 @@ Here are a few other pointers to knowing me:
 
 **April 2020:** I've been selected to attend [MLSS Tübingen](http://mlss.tuebingen.mpg.de/2020/): Machine Learning Summer School along with 179 more students (out of 1300+ applicants).
 
-**October 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
+**Oct 2019:** We [ranked third](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/2019/certificates/certificates_tabularisi.pdf) in the IBM sponsored [Table-to-KG matching challenge](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/) at the International Semantic Web Conference ([ISWC 2019](http://iswc2019.semanticweb.org)) . Here's the [system description paper](http://www.cs.ox.ac.uk/isg/challenges/sem-tab/papers/Tabularisi.pdf) we wrote, and [here are the slides](https://docs.google.com/presentation/d/1xItRNKh020nIcDBYKSOjQPPcJDQCkLy2qk628wrze8A/edit?usp=sharing). I also wrote a [blog](https://medium.com/@avijitthawani/iswc-2019-new-zealand-bd15fe02d3d4) about my trip to ISWC. 
 
-**October 2019:** Selected as a volunteer for [TechCrunch Disrupt SF 2019](https://techcrunch.com/events/disrupt-sf-2019/)!
+**Oct 2019:** Selected as a volunteer for [TechCrunch Disrupt SF 2019](https://techcrunch.com/events/disrupt-sf-2019/)!
 
-**September 2019:** Attended [SoCalNLP 2019](https://socalnlp.github.io/symp19/index.html).
+**Sept 2019:** Attended [SoCalNLP 2019](https://socalnlp.github.io/symp19/index.html).
 
-**September 2019:** I won a travel grant to attend [WeCNLP 2019](http://wecnlp.ai) at Facebook HQ, Menlo Park. The view up there is pretty amazing!
+**Sept 2019:** I won a travel grant to attend [WeCNLP 2019](http://wecnlp.ai) at Facebook HQ, Menlo Park. The view up there is pretty amazing!
 
-**August 2019:** Presenting at [MLHC 2019](https://www.mlforhc.org), Michigan, a joint work with [Byron Wallace](http://byronwallace.com) on [studying gender bias in online physician reviews](https://www.mlforhc.org/s/Thawani.pdf).
+**Aug 2019:** Presenting at [MLHC 2019](https://www.mlforhc.org), Michigan, a joint work with [Byron Wallace](http://byronwallace.com) on [studying gender bias in online physician reviews](https://www.mlforhc.org/s/Thawani.pdf).
 
 **July 2019:** Attending [SIGGRAPH 2019](https://s2019.siggraph.org), Los Angeles.
 
@@ -52,9 +56,9 @@ Here are a few other pointers to knowing me:
 
 **May 2019:** Paper accepted (co-authors: [Biplav Srivastava](https://researcher.watson.ibm.com/researcher/view.php?person=us-biplavs) and Anil Kumar Singh) at the [RepEval 2019](https://repeval2019.github.io/program/) workshop. See you at [NAACL](https://naacl2019.org), June 2-7, Minneapolis!
 
-**January 2019:** Accepted into the Computer Science PhD programs at University of Southern California, Los Angeles and Northeastern University, Boston.
+**Jan 2019:** Accepted into the Computer Science PhD programs at University of Southern California, Los Angeles and Northeastern University, Boston.
 
-**December 2018:** Three amazing job offers from Samsung, Myntra, and Headout.
+**Dec 2018:** Three amazing job offers from Samsung, Myntra, and Headout.
 
 **21st April 2018:** My long short film [Stopping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk) is now on YouTube (EDIT: over **50,000 views**). Do watch and hit like if you like!
 
@@ -62,4 +66,4 @@ Here are a few other pointers to knowing me:
 
 **Feb 2018:** We're done with the shooting of my upcoming short film (tentatively) titled _Stopping by woods_. So excited to begin editing as soon as my mid semesters end!
 
-**December 2017:** We're organising the [2nd workshop on Review Opinion Diversification](https://sites.google.com/view/revopid-2018) at ACM Hypertext (9-12 July, 2018). See you in Baltimore!
+**Dec 2017:** We're organising the [2nd workshop on Review Opinion Diversification](https://sites.google.com/view/revopid-2018) at ACM Hypertext (9-12 July, 2018). See you in Baltimore!

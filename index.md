@@ -9,7 +9,7 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Will follow up with the pdf link and a blog post soon!
+**Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Will follow up with the pdf link and a blog post soon.
 
 **Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://isi.edu/news/story/433) for the ISI Communications team.
 
@@ -22,7 +22,7 @@ Here are a few other pointers to knowing me:
 **Oct 2020:** My (ongoing) work on number representations was accepted at [West Coast NLP 2020](https://www.wecnlp.ai/wecnlp-2020). Here is the 1-pg abstract (link removed temporarily). Looking forward to present on 30th October 2020.
 <!-- [1-pg abstract (link removed temporarily)](https://drive.google.com/file/d/1aEu21sTMYvNZp-gOUXpjqgnm34I2mxca/view?) -->
 
-**Sept 2020:** We have fundraised registration fees to sponsor four Indian undergrads' attendance at [EMNLP 2020](https://2020.emnlp.org/).
+**Sept 2020:** We have fundraised registration fees to sponsor four Indian undergrads' attendance at [EMNLP 2020](https://2020.emnlp.org/). In other news, [TG](https://isi.edu/~tg/), [Harsh](https://harsh-agarwal.github.io/about/), and I submitted a proposal to the [government of India](http://thesciencepolicyforum.org/initiatives/eti/) on identifying Indian vernacular NLP as an emerging technology. Update: Our proposal was unfortunately not selected, but we'd love to hear your feedback so here's [the link](https://docs.google.com/document/d/1ObqEGVVx3Co7LrwipsFuJddm1CRnLjAe6D2we7XSzRI/edit?usp=sharing).
 
 **July 2020:** At ISI's Graduate Student Symposium [GSS](https://gss.isi.edu/) 2020, I presented my (ongoing) work on number representations (poster link removed temporarily) and frame semantics ([slides](https://docs.google.com/presentation/d/1ifWH22HUaExfVuxqAaHx0D-uQzKyi40-sKFVZfYRc-8/view?); [video](https://drive.google.com/file/d/1ECeALkp24df0KKbyQkU0C3qJWbJrwzXy/view?)).
 

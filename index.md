@@ -9,7 +9,7 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
-**Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Will follow up with the pdf link and a blog post soon.
+**Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Here's a [preprint link](https://arxiv.org/abs/2103.13136) and a [short twitter thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) describing the same!
 
 **Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://isi.edu/news/story/433) for the ISI Communications team.
 

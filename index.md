@@ -9,6 +9,14 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**June 2021:** I'll be attending NAACL 2021 and presenting our survey on [Number Representations in NLP](https://www.aclweb.org/anthology/2021.naacl-main.53/). I'm also excited to hear more about other awesome papers, such as those described in [Sebastian Ruder's NLP newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784)!
+
+**May 2021:** We submitted two papers to EMNLP: one's a revision of an ACL rejection and another's a side project with [Dipesh Kumar]() from IIT BHU. I've also begun my [AI2](https://allenai.org/) internship with [Ashwin Kalyan](http://ashwinkalyan.com/) as my mentor. Here's my [intro slide](https://docs.google.com/presentation/d/1d6Eo2E_Ama9CYGA5BlUnWA_7ncN04S5HszQDNd2qGGI/edit?usp=sharing)!
+
+**Apr 2021:** Tragic month in India. In between arranging oxygen for dying relatives and myself recovering from Covid-19, I tried to [visualize](https://avi-jit.github.io/covid-india/scatter) the scale of the Indian crisis for Americans to better comprehend it. 
+
+Meanwhile, ur NAACL 2021 Survey on [Numeracy in NLP](https://www.aclweb.org/anthology/2021.naacl-main.53/) featured in [Sebastian Ruder's NLP newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784)!
+
 **Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Here's a [preprint link](https://arxiv.org/abs/2103.13136) and a [short twitter thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) describing the same!
 
 **Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://isi.edu/news/story/433) for the ISI Communications team.

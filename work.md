@@ -1,4 +1,4 @@
-# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
+# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
 I believe every individual on earth has some amazing ideas and thoughts, which they sometimes pen down. I also believe that the strength of humanity lies in being able to _conveniently_ **express** and **access** these ideas. I just work on the convenience part. Things I've worked on or am working on are:
 

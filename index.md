@@ -1,4 +1,4 @@
-# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
+# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
 I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. My past mentors include [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (when at IBM Research, NY) and [Byron Wallace](http://www.byronwallace.com/) (Northeastern University, Boston), as well as the Bixby voice assistant team at Samsung Research. As of Summer 2021, I'm interning at AI2 with [Ashwin Kalyan](http://ashwinkalyan.com/). 
 

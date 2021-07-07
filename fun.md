@@ -1,4 +1,4 @@
-# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun)
+# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
 ## Filmmaking
 I've made a couple of short films and videos in college:

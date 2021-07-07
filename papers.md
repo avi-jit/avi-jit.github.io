@@ -2,9 +2,9 @@
 
 # Publications
 
-(Submitted) **Thawani Avijit**, et al. _Numeracy enhances Literacy in Language Models_. (Rejected at ACL 2021).
+(Submitted) | **Thawani Avijit**, et al. _Numeracy enhances Literacy in Language Models_. (Rejected at ACL 2021).
 
-(Submitted) Kumar D, **Thawani A**. _BPE with N-Grams and Skip-Grams_.
+(Submitted) | Kumar D, **Thawani A**. _BPE with N-Grams and Skip-Grams_.
 
 [Anthology](https://www.aclweb.org/anthology/2021.naacl-main.53/) | [Arxiv](https://arxiv.org/abs/2103.13136) | [Slides](https://docs.google.com/presentation/d/1jDWLe6LiHtw5gK4klDQ9t5Ttt1llT38DlGgaybf4qnw/edit?usp=sharing) | [Video](https://drive.google.com/file/d/1muiAfVDx_Ul3Gqq9I-asn5p1AnLkrFTF/view?usp=sharing) | [Thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) | **Thawani, Avijit** et al. _Representing Numbers in NLP: a Survey and a Vision_. NAACL (2021).
 

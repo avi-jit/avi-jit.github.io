@@ -4,7 +4,7 @@ I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.e
 
 Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
 Here are a few other pointers to knowing me:
-[Twitter](https://twitter.com/thawani_avijit); [Medium](https://medium.com/@avijitthawani); [LinkedIn](https://www.linkedin.com/in/avijitthawani/); [Resume](https://www.overleaf.com/read/pfvrgckrmmqv). Finally, you could find my latest publications at: [Google Scholar](https://scholar.google.com/citations?user=8KleQAgAAAAJ); [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242); [DBLP](https://dblp.uni-trier.de/pid/208/4386.html); [ORCID](https://orcid.org/0000-0002-4289-3607).
+[Twitter](https://twitter.com/thawani_avijit); [Medium](https://medium.com/@avijitthawani); [LinkedIn](https://www.linkedin.com/in/avijitthawani/); [Resume](https://www.overleaf.com/read/pfvrgckrmmqv).
 
 
 # Updates

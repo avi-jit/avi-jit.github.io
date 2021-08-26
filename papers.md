@@ -12,7 +12,7 @@
 
 [PDF](https://www.mlforhc.org/s/Thawani.pdf) | [Code](https://github.com/avi-jit/RateMDs) | **Thawani, Avijit** et al. _Are Online Reviews of Physicians Biased Against Female Providers?_ MLHC (2019).
 
-[Anthology](https://www.aclweb.org/anthology/W19-2006) | [Poster](https://github.com/avi-jit/SWOW-eval/blob/master/1559781908296_small.pdf) | [Code](https://github.com/avi-jit/SWOW-eval) | **Thawani, Avijit** and Anil Kumar Singh. _SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings_. RepEval (2019).
+[Anthology](https://www.aclweb.org/anthology/W19-2006) | [Poster](https://github.com/avi-jit/SWOW-eval/blob/master/1559781908296_small.pdf) | [Code](https://github.com/avi-jit/SWOW-eval) | **Thawani, Avijit** et al. _SWOW-8500: Word Association task for Intrinsic Evaluation of Word Embeddings_. RepEval (2019).
 
 [Anthology](http://aclweb.org/anthology/I17-4003) | Singh, A.K., **Thawani, A.**, Panchal, M., Gupta, A., & McAuley, J. _IJCNLP-2017 Task 3: Review Opinion Diversification (RevOpiD-2017)_. IJCNLP (2017).
 

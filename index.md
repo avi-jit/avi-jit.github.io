@@ -1,6 +1,6 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
-I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. My past mentors include [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (when at IBM Research, NY) and [Byron Wallace](http://www.byronwallace.com/) (Northeastern University, Boston), as well as the Bixby voice assistant team at Samsung Research. As of Summer 2021, I'm interning at AI2 with [Ashwin Kalyan](http://ashwinkalyan.com/). 
+I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. My past mentors include [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (when at IBM Research, NY) and [Byron Wallace](http://www.byronwallace.com/) (Northeastern University, Boston), as well as the Bixby voice assistant team at Samsung Research. In Summer 2021, I interned at AI2 with [Ashwin Kalyan](http://ashwinkalyan.com/). 
 
 Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
 Here are a few other pointers to knowing me:
@@ -9,13 +9,17 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**Aug 2021:** Our short paper was accepted to [EMNLP 2021](https://2021.emnlp.org/). We showed that Numeracy enhances Literacy in Language Models (or is it Foundation Models now)! TL;DR: Simple changes to number tokenization helps models predict words better.
+
+**July 2021:** Wrapped up my internship with AI2, wrote a short story around AGI/Blockchain. I'm also learning how to make Chrome browser extensions - starting with [https://blocksite.co/](https://blocksite.co/), using which would've otherwise costed me $11 per month! Here's a free version for anyone: [https://github.com/avi-jit/blocker](https://github.com/avi-jit/blocker).
+
 **June 2021:** I'll be attending NAACL 2021 and presenting our survey on [Number Representations in NLP](https://www.aclweb.org/anthology/2021.naacl-main.53/). I'm also excited to hear more about other awesome papers, such as those described in [Sebastian Ruder's NLP newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784)!
 
 **May 2021:** We submitted two papers to EMNLP: one's a revision of an ACL rejection and another's a side project with [Dipesh Kumar]() from IIT BHU. I've also begun my [AI2](https://allenai.org/) internship with [Ashwin Kalyan](http://ashwinkalyan.com/) as my mentor. Here's my [intro slide](https://docs.google.com/presentation/d/1d6Eo2E_Ama9CYGA5BlUnWA_7ncN04S5HszQDNd2qGGI/edit?usp=sharing)!
 
 **Apr 2021:** Tragic month in India. In between arranging oxygen for dying relatives and myself recovering from Covid-19, I tried to [visualize](https://avi-jit.github.io/covid-india/scatter) the scale of the Indian crisis for Americans to better comprehend it. 
 
-Meanwhile, ur NAACL 2021 Survey on [Numeracy in NLP](https://www.aclweb.org/anthology/2021.naacl-main.53/) featured in [Sebastian Ruder's NLP newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784)!
+Meanwhile, our NAACL 2021 Survey on [Numeracy in NLP](https://www.aclweb.org/anthology/2021.naacl-main.53/) featured in [Sebastian Ruder's NLP newsletter](https://newsletter.ruder.io/issues/eacl-iclr-naacl-papers-round-up-research-reality-checks-ml-on-code-592784)!
 
 **Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Here's a [preprint link](https://arxiv.org/abs/2103.13136) and a [short twitter thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) describing the same!
 

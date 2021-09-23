@@ -9,6 +9,8 @@ Here are a few other pointers to knowing me:
 
 # Updates
 
+**Sept 2021:** I wrote my first opinion piece which stood first in a weekly contest by The Print: [Will Panjshir become a Taiwan? Afghanistan’s story matches with China](https://theprint.in/campus-voice/will-panjshir-become-a-taiwan-afghanistans-story-matches-with-china/732849/). Thanks to a course I took with Professor Joshua Goldstein for the idea!
+
 **Aug 2021:** Our short paper was accepted to [EMNLP 2021](https://2021.emnlp.org/). We showed that Numeracy enhances Literacy in Language Models (or is it Foundation Models now)! TL;DR: Simple changes to number tokenization helps models predict words better.
 
 **July 2021:** Wrapped up my internship with AI2, wrote a short story around AGI/Blockchain. I'm also learning how to make Chrome browser extensions - starting with [https://blocksite.co/](https://blocksite.co/), using which would've otherwise costed me $11 per month! Here's a free version for anyone: [https://github.com/avi-jit/blocker](https://github.com/avi-jit/blocker).

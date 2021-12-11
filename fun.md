@@ -20,8 +20,21 @@ I write articles, stories, newspapers, blogs, songs and novels. Some of them are
 1. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
 2. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
 3. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
-4. **Blog**: I've now switched to blogging on [Medium](https://medium.com/@avijitthawani) and [Twitter](https://twitter.com/thawani_avijit)
+4. **Articles**: I have some old blogs on [Medium](https://medium.com/@avijitthawani) and many newer ones on [Notion](https://thawani.notion.site).
+ 
+## Miscellaneous
+1. **Books**: I love books but am a slow reader. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)
+2. **Street Play**: on blood donation at a slum near campus
+3. **Dance**: ranging from Bhangra to David Guetta and Govinda dance, we did it all!
+4. **Robotics**: stood 1st at a robot making and handling event - [the best day in my life](https://www.facebook.com/avijit.thawani/posts/796281477100748). If I scripted the day, I couldn't have made it any better (unless you allow me to script Emma Watson into the story) 
+5. **Skit**: on media corruption. I played Rahul Gandhi!
+6. **Contraption**: at a contest called Goldberg's Alley. For those who don't know what a contraption is, think of the set of traps that Tom often set up for Jerry to step into. One action leads to another and finally resulting in a reaction, which is usually Tom-caught-up-in-his-own-trap.
+7. **Rap** songs in Hindi and English, inspired from [Kartavyo, the Sanskrit-English rap song](https://www.youtube.com/watch?v=_8oL_FKr1zw) by Arihant and Apoorv
+8. **Stand-up Comedy**: at the Lit Club and The Tripling Bistro
+9. **Crafts**: I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
+10. **Sketching**: I and my brother [Siddharth Thawani](https://www.instagram.com/sidart.thawani/) loved cartooning as kids (he still does) and sketched several comics.
 
+<!---
 ## Travel
 I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
 - **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
@@ -37,14 +50,20 @@ I've been around a lot, and wish to continue to do so. Some of the cities I've b
 - East India: Puri, Kolkata
 - North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
 - Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
+-->
 
+<!--
 ## Sketching
 I and my brother [Siddharth Thawani](https://www.instagram.com/sidart.thawani/) loved cartooning as kids (he still does) and sketched several comics.
+-->
 
+<!---
 ## Crafts
 I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
+-->
 
-## Books
+[//]: # (This may be the most platform independent comment)
+<!---
 I'm a very slow reader and have only managed to go through a limited number of books yet:
 - **Society of Mind:** (always reading) A theory of how the mind works, by Marvin Minsky, the ever-so-popular name in Artificial Intelligence. I’ll call it my Bible. Read it after supper daily for at least an year, because you won’t be able to go through three pages in a row without having to note down your thought and contemplate for a while on the mind and your life. [PDF](http://www.acad.bg/ebook/ml/Society%20of%20Mind.pdf)
 - **The Story of my Experiments with Truth:** (still reading) is the autobiography of the father of my nation, Mohandas Karamchand Gandhi, or as the world likes (yet he dislikes) to call him, Mahatma Gandhi. Albert Einstein said of Mahatma Gandhi that: “Generations to come will scarce believe that such a one as this ever in flesh and blood walked upon this earth.”
@@ -82,13 +101,4 @@ I'm a very slow reader and have only managed to go through a limited number of b
 - **Factfulness:** (to read) Hans Rosling
 - **The Stuff of Thought:** (to read) Steven Pinker (suggested by [Prof Irving Biederman](https://en.wikipedia.org/wiki/Irving_Biederman))
 - **The Emotion Machine:** (to read) Marvin Minsky (inspired the movie [Inside Out](https://www.imdb.com/title/tt2096673/))
-
-## Misc
-As a freshman in college, I tried my hands on all sorts of extra curricular activities:
-1. **Street Play**: on blood donation at a slum near campus
-2. **Dance**: ranging from Bhangra to David Guetta and Govinda dance, we did it all!
-3. **Robotics**: stood 1st at a robot making and handling event - [the best day in my life](https://www.facebook.com/avijit.thawani/posts/796281477100748). If I scripted the day, I couldn't have made it any better (unless you allow me to script Emma Watson into the story) 
-4. **Skit**: on media corruption. I played Rahul Gandhi!
-5. **Contraption**: at a contest called Goldberg's Alley. For those who don't know what a contraption is, think of the set of traps that Tom often set up for Jerry to step into. One action leads to another and finally resulting in a reaction, which is usually Tom-caught-up-in-his-own-trap.
-6. **Rap** songs in Hindi and English, inspired from [Kartavyo, the Sanskrit-English rap song](https://www.youtube.com/watch?v=_8oL_FKr1zw) by Arihant and Apoorv
-7. **Stand-up Comedy**: at the Lit Club and The Tripling Bistro
+-->

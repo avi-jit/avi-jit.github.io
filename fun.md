@@ -17,10 +17,11 @@ I love playing around with data. Some of my data science and visualization proje
 
 ## Writing
 I write articles, stories, newspapers, blogs, songs and novels. Some of them are:
-1. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
-2. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
-3. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
-4. **Articles**: I have some old blogs on [Medium](https://medium.com/@avijitthawani) and many newer ones on [Notion](https://thawani.notion.site).
+1. **Published Articles**: I have published in [The Print](https://theprint.in/campus-voice/will-panjshir-become-a-taiwan-afghanistans-story-matches-with-china/732849/) and [ISI News](https://www.isi.edu/news/38134/do-humans-trust-ai-coworkers/).
+2. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
+3. **Short stories book**: Martyrs' Horizon (will upload a soft copy soon!)
+4. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
+5. **Blogs**: I have some old ones on [Medium](https://medium.com/@avijitthawani) and many newer ones on [Notion](https://thawani.notion.site).
  
 ## Miscellaneous
 1. **Books**: I love books but am a slow reader. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)

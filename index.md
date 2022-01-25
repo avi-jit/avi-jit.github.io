@@ -25,7 +25,7 @@ Meanwhile, our NAACL 2021 Survey on [Numeracy in NLP](https://www.aclweb.org/ant
 
 **Mar 2021:** Our survey on number representations was accepted to [NAACL 2021](https://2021.naacl.org/). Here's a [preprint link](https://arxiv.org/abs/2103.13136) and a [short twitter thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) describing the same!
 
-**Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://isi.edu/news/story/433) for the ISI Communications team.
+**Feb 2021:** Volunteered to write a layperson article on [human-AI trust](https://www.isi.edu/news/38134/do-humans-trust-ai-coworkers/) for the ISI Communications team.
 
 **Jan 2021:** Submitted a paper (link removed temporarily) to [ACL 2021](https://2021.aclweb.org/) on number representations in NLP.
 

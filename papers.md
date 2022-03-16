@@ -20,4 +20,4 @@
 
 [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70145-5_17.pdf) | Singh, A.K., **Thawani, A.**, Gupta, A., & Mundotiya, R.K. _Evaluating Opinion Summarization in Ranking_. **AIRS** (2017).
 
-Other links to explore publications: | [Google Scholar](https://scholar.google.com/citations?user=8KleQAgAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242) | [DBLP](https://dblp.uni-trier.de/pid/208/4386.html) | [ORCID](https://orcid.org/0000-0002-4289-3607)
+Other links to explore publications: | [Google Scholar](https://scholar.google.com/citations?user=i67YV2QAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242) | [DBLP](https://dblp.uni-trier.de/pid/208/4386.html) | [ORCID](https://orcid.org/0000-0002-4289-3607)

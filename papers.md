@@ -2,9 +2,9 @@
 
 # Publications
 
-(In prep) |  **Thawani Avijit**, et al. _Tokenization in Number Space_.
+(Submitted) |  **Thawani Avijit**, et al. _Tokenization in Number Space_.
 
-[OpenReview](https://openreview.net/forum?id=rHed93bCG-5) | [Code](https://github.com/pegasus-lynx/mwe-bpe) | Kumar D*, **Thawani A.*** _BPE with N-Grams and Skip-Grams_. **Negative Insights** workshop at ACL 2022. (*equal contribution)
+[Anthology](https://aclanthology.org/2022.insights-1.24/) | [Slides](https://docs.google.com/presentation/d/1TTNe6Obl0L69J2H-1i2JXaEhRsrmIDYCrlylT5wrROE/edit?usp=sharing) |  [Reviews](https://openreview.net/forum?id=rHed93bCG-5) | [Code](https://github.com/pegasus-lynx/mwe-bpe) | Kumar D\*, **Thawani A\*.** _BPE with N-Grams and Skip-Grams_. Negative Insights workshop at **ACL 2022**. (*equal contribution)
 
 [Anthology](https://aclanthology.org/2021.emnlp-main.557/) | [Slides](https://drive.google.com/file/d/1-GIUOTRLavVzA_ynQ0HqTR_RMq2GezOI/view?usp=sharing) | [Video](https://drive.google.com/file/d/1QluCr79hAHkA_oCwD6JHUBQAQ81rMste/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1DntS8pRlpsRnO3UpYZeo3wzAOJiHLfY1/view?usp=sharing) | [Thread](https://twitter.com/thawani_avijit/status/1434168008046301185) | [Code](https://github.com/avi-jit/numeracy-literacy) | [ACL21 Reviews](https://drive.google.com/file/d/1IUv9Rk3VqxceP58NyrEENAcr30P0etis/view?usp=sharing) | **Thawani Avijit**, et al. _Numeracy enhances Literacy in Language Models_. **EMNLP** (2021).
 

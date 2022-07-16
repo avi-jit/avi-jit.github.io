@@ -1,6 +1,14 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
-I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Pedro Szekely](http://usc-isi-i2.github.io/szekely/) and [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi. My past mentors include [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/) (when at IBM Research, NY) and [Byron Wallace](http://www.byronwallace.com/) (Northeastern University, Boston), as well as the Bixby voice assistant team at Samsung Research. In Summer 2021, I interned at AI2 with [Ashwin Kalyan](http://ashwinkalyan.com/). 
+I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi.
+
+I've been fortunate to also be able to do research with a number of amazing mentors:
+- Amazon Alexa Conversations Lab126 Sunnyvale. Mentors: Rohan Mukherjee, Hann Wang, [Arijit Biswas](https://www.amazon.science/author/arjit-biswas). Summer 2022.
+- Allen Institute of Artificial Intelligence Aristo. Mentors: [Ashwin Kalyan](http://ashwinkalyan.com/), Peter Clark. Summer 2021.
+- [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/), then at IBM Research NY. (remote, volunteer project sans affiliation). Spring 2019.
+- Northeastern University, Boston. Mentor: [Byron Wallace](http://www.byronwallace.com/). Summer 2018.
+- Samsung Research, Bengaluru. Team Bixby. Summer 2017.
+- Singapore University of Technology and Design, Singapore. Mentor: Yuen Chau. Summer 2016.
 
 Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
 Here are a few other pointers to knowing me:
@@ -8,6 +16,10 @@ Here are a few other pointers to knowing me:
 
 
 # Updates
+
+**June 2022:** Interning at Amazon Lab126 with the Alexa Conversations team, loosely on the topic of compositional generalization.
+
+**May 2022:** Presenting work with Dipesh Kumar, at the ACL 2022 Workshop on Negative Insights.
 
 **Sept 2021:** I wrote my first opinion piece which stood first in a weekly contest by The Print: [Will Panjshir become a Taiwan? Afghanistan’s story matches with China](https://theprint.in/campus-voice/will-panjshir-become-a-taiwan-afghanistans-story-matches-with-china/732849/). Thanks to a course I took with Professor Joshua Goldstein for the idea!
 

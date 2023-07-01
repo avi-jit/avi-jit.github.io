@@ -35,23 +35,18 @@ I write articles, stories, newspapers, blogs, songs and novels. Some of them are
 9. **Crafts**: I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
 10. **Sketching**: I and my brother [Siddharth Thawani](https://www.instagram.com/sidart.thawani/) loved cartooning as kids (he still does) and sketched several comics.
 
-<!---
 ## Travel
 I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
-- **United States**: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
-- **China**: Beijing
-- **New Zealand**: Auckland, Queenstown, Wanaka, Makarora
-- **Singapore**
-- **Kuala Lumpur**
-- **South Korea**: Seoul, Incheon
-- **Nepal**: Kathmandu, Pokhara
+- Europe: London, Berlin, Amsterdam, Utrecht, Florence, Pisa, Bruges, Dubrovnik, Dublin, Killarney, Galway, Cambridge
+- United States: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
+- Asia: Beijing, Singapore, Kuala Lumpur, Seoul, Kathmandu
+- New Zealand: Auckland, Queenstown, Wanaka, Makarora
 - Southeast India: Pondicherry, Madras, Auroville, Rameshwaram
 - Southwest India: Bangalore, Coorg
 - West India: Mumbai, Goa, Pune, Shirdi
 - East India: Puri, Kolkata
 - North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
 - Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
--->
 
 <!--
 ## Sketching

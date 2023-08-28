@@ -3,6 +3,7 @@
 I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Representation Learning within Natural Language Processing, with [Jay Pujara](http://jaypujara.org) at the Information Sciences Institute ([ISI](http://isi.edu)). I did my undergrad and masters in Computer Science at the Indian Institute of Technology ([IIT BHU](https://www.iitbhu.ac.in/dept/cse)), Varanasi.
 
 I've been fortunate to also be able to do research with a number of amazing mentors:
+- [Microsoft Research Health Futures](https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/), Cambridge UK. Mentors: Stephanie Hyland, Flora Liu, Shruthi Bannur. Summer 2023.
 - Amazon Alexa Conversations Lab126 Sunnyvale. Mentors: Rohan Mukherjee, Hann Wang, [Arijit Biswas](https://www.amazon.science/author/arjit-biswas). Summer 2022.
 - Allen Institute of Artificial Intelligence Aristo. Mentors: [Ashwin Kalyan](http://ashwinkalyan.com/), Peter Clark. Summer 2021.
 - [Biplav Srivastava](https://sites.google.com/site/biplavsrivastava/), then at IBM Research NY. (remote, volunteer project sans affiliation). Spring 2019.
@@ -16,6 +17,8 @@ Here are a few other pointers to knowing me:
 
 
 # Updates
+
+**2023:** Interned at Microsoft Research Cambridge (UK) with the Health Futures team, on the topic of Radiology Visual Question Answering. I was fortunate to present our [open-source literature review tool](https://github.com/EshaanAgg/Research-Literature-Manager) in a [talk at ISI](https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2). And Saras, my edtech AI chatbot, stood 3rd at VGSA Trojan Tank and was a semi-finalist at USC's New Venture Seed Contest.
 
 **2022:** Interned at Amazon Lab126 with the Alexa Conversations team, on the topic of compositional generalization.
 And presented work with Dipesh Kumar, at the ACL 2022 Workshop on Negative Insights, Dublin.

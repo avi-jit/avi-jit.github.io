@@ -2,7 +2,7 @@
 
 # Publications
 
-Arxiv | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
+[Arxiv](https://arxiv.org/abs/2310.11628) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
 [Arxiv](https://arxiv.org/abs/2310.06204) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.
 

@@ -4,7 +4,7 @@
 
 [Arxiv](https://arxiv.org/abs/2310.11628) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
-[Arxiv](https://arxiv.org/abs/2310.06204) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.
+[Arxiv](https://arxiv.org/abs/2310.06204) | [Presentation](https://underline.io/lecture/71866-estimating-numbers-without-regression) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.
 
 [Anthology](https://aclanthology.org/2022.insights-1.24/) | [Slides](https://docs.google.com/presentation/d/1TTNe6Obl0L69J2H-1i2JXaEhRsrmIDYCrlylT5wrROE/edit?usp=sharing) |  [Reviews](https://openreview.net/forum?id=rHed93bCG-5) | [Code](https://github.com/pegasus-lynx/mwe-bpe) | Kumar D\*, **Thawani A\*.** _BPE with N-Grams and Skip-Grams_. Negative Insights workshop at **ACL 2022**. (*equal contribution)
 

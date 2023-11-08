@@ -1,8 +1,18 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
-I believe every individual on earth has some amazing ideas and thoughts, which they sometimes pen down. I also believe that the strength of humanity lies in being able to _conveniently_ **express** and **access** these ideas. I just work on the convenience part. Things I've worked on or am working on are:
+### Saras
+Saras is your personal AI tutor, that I developed as a [Telegram chatbot](https://t.me/saras_gpt_bot) and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)!
 
+### Ballpark
+Harsh helped me make "Wordle for Numbers" - a [fun and informative game]() that lets you challenge your friends and improve your numeracy skills.
 
+### Living Surveys
+Eshaan helped me create an [open source lit review](https://github.com/EshaanAgg/Research-Literature-Manager) tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a [talk at ISI](https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2) presenting the tool.
+
+### Startup Consultancy
+I love helping startups build PoCs and streamline their AI/NLP-related projects, whether it be in mobility APIs, fintech, or B2B tools.
+
+<!--I believe every individual on earth has some amazing ideas and thoughts, which they sometimes pen down. I also believe that the strength of humanity lies in being able to _conveniently_ **express** and **access** these ideas. I just work on the convenience part. Things I've worked on or am working on are:
 
 ## Access ideas:
 
@@ -11,13 +21,13 @@ I'm really excited about the recent attention-based retrieval methods that demon
 
 ### Number Representations
 Have you ever read statements like "Microsoft's net worth is 1.02 Trillion dollars ..." and struggled to get a grasp of really how much is a trillion dollars? Perhaps if someone told you that Bill Gates' worth is 100 Billion dollars or that the US GDP is 21.5 Trillion dollars, you'd be able to better comprehend the original statement. The [triple code theory](https://www.researchgate.net/figure/Dehaenes-Triple-Code-Model-Numbers-are-stored-in-three-individual-yet-integrated_fig2_288830463) for numerical cognition states that besides the verbal and visual cognition systems, we also possess a number line in our mind which lets us reason about new numbers based on other known facts over similar numbers and units. I wished to build a browser extension that could read a webpage and replace these intimidating numbers with simpler comparisons (eg. replace 1.02 Trillion dollars with 5 % of US GDP), but it seems someone already wrote a [blog](https://towardsdatascience.com/how-much-is-a-billion-dollars-7705053dd6d9) about this. I'm now interested in reconciling language models with numbers, extending upon [Spithourakis and Riedel 2019](https://arxiv.org/abs/1805.08154). Here's a short video (link removed temporarily) I presented at MLSS 2020, a poster (link removed temporarily) I presented at GSS 2020, and a 1-pg abstract (link removed temporarily) accepted at [West Coast NLP 2020](https://www.wecnlp.ai/wecnlp-2020). Our survey on number representations in NLP was accepted to NAACL 2021. Here's a [preprint link](https://arxiv.org/abs/2103.13136) and a [short twitter thread](https://twitter.com/thawani_avijit/status/1375033476194312194?s=20) describing the same!
-
+-->
 <!--Lol I hope nobody visits this page to find these comments. I'm in the anonymity period-->
 <!--[video (link removed temporarily)](https://www.youtube.com/watch?v=4v0MXfl1c_w)-->
 <!--[poster (link removed temporarily)](https://drive.google.com/file/d/1-4ygHP36zX5NG9vqxzSCjXiUAwTel5g5/view?)-->
 <!--[1-pg abstract (link removed temporarily)](https://drive.google.com/file/d/1aEu21sTMYvNZp-gOUXpjqgnm34I2mxca/view?)-->
 
-### Chunking with Tokenization
+<!--### Chunking with Tokenization
 This project is based on the simple realization (simple if you've read how transformer language models work): Since the only way we add positional information to the tokens in a seq2seq model is through positional embeddings, why do we still stick to some assumptions like 'One position can accommodate only One token' or 'Tokens need to be continuous substrings'. I've written about this idea in greater depth on [twitter](https://twitter.com/thawani_avijit/status/1233852606935490565) and as a [1-pg abstract](https://docs.google.com/document/d/1flOvkbemOY07ZB-nm7v_XMNKXa7-_v7u_bL_mJ5DZzE/edit?). Update: I'm fortunate to be assisting [Deepesh Kumar](https://in.linkedin.com/in/dipeshkr) and both of us are fortunate to being assisted by [TG](https://isi.edu/~tg/) on this project.
 
 ### Contextual Search
@@ -36,9 +46,6 @@ I, with my supervisor [Dr. Anil K Singh](http://anilkumarsingh.me/) and [Dr. Jul
 
 ### Disentangling aspects in opinionated text
 I interned with [Dr. Byron C. Wallace](http://www.byronwallace.com/) at Northeastern University in the summer of 2018, working on analyzing online physician reviews from [RateMDs.com](RateMDs.com).Our work has been accepted at the [Machine Learning for Healthcare Conference](https://www.mlforhc.org/accepted-papers). We ran into an interesting problem of disentangling topics in word embeddings, which I continue to work upon, as a possible solution to automatic tagging of documents for future retrieval. [Meta Search](https://diffeo.com/search/) is a startup that provides similar solutions as a searchbar for all your files.
-
-
-
 
 ## Express ideas:
 ### Stopping by Woods
@@ -69,4 +76,4 @@ Harsh went on to work on SLAM, a computer vision method we used to implement our
 As a course project with [Dr. Hari Prabhat Gupta](https://sites.google.com/site/hprabhatgupta/home), I worked on an intuitive way to write digitally. Our Android application allowed one to hold the smartphone like a pen and write (in the air) characters with it which are then recognized and transcribed to English alphabets. Imagine taking the most conveniently available personal digital assistant you have (a smartphone) and write as intuitively with it as you write with a pen.
 
 I used Machine Learning to map sensor readings (accelerometer and gyroscope) to English alphabets and subsequent training, while [Robin](https://www.linkedin.com/in/robin-khurana-0a3a3ab7/) - my teammate - helped with the Android implementation of it.
-
+-->

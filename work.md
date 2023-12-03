@@ -1,13 +1,25 @@
 # **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
 
-### Saras
-Saras is your personal AI tutor, that I developed as a [Telegram chatbot](https://t.me/saras_gpt_bot) and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)!
+<table>
+<tr>
+<td>Product</td><td>Description</td>
 
-### Ballpark
-Harsh helped me make "Wordle for Numbers" - a [fun and informative game]() that lets you challenge your friends and improve your numeracy skills.
+<tr>
+<td> <img src="https://picsum.photos/200/300" alt="your image description" style="width:200px;"/></td>
+<td> <a href="https://t.me/saras_gpt_bot">Saras</a>  is your personal AI tutor, that I developed as a Telegram chatbot and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)! </td>
+</tr>
 
-### Living Surveys
-Eshaan helped me create an [open source lit review](https://github.com/EshaanAgg/Research-Literature-Manager) tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a [talk at ISI](https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2) presenting the tool.
+<tr>
+<td> <img src="https://picsum.photos/200/300" alt="your image description" style="width:200px;"/></td>
+<td> Harsh helped me make <a href="https://ballpark.netlify.app">Wordle for Numbers</a> - a fun and informative game that lets you challenge your friends and improve your numeracy skills. </td>
+</tr>
+
+<tr>
+<td> <img src="https://picsum.photos/200/300" alt="your image description" style="width:200px;"/></td>
+<td> Eshaan helped me create <a href="https://github.com/EshaanAgg/Research-Literature-Manager">Living Surveys</a>, an open source lit review tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a <a href="https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2">talk at ISI</a> presenting the tool. </td>
+</tr>
+
+</table>
 
 ### Startup Consultancy
 I love helping startups build PoCs and streamline their AI/NLP-related projects, whether it be in mobility APIs, fintech, or B2B tools.

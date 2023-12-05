@@ -1,6 +1,8 @@
 # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
-# Publications
+My research helps language models **tokenize** and represent text better. Here are my most recent and representative publications:
+
+Other links to explore publications | [Google Scholar](https://scholar.google.com/citations?user=i67YV2QAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242) | [DBLP](https://dblp.uni-trier.de/pid/208/4386.html) | [ORCID](https://orcid.org/0000-0002-4289-3607)
 
 [Arxiv](https://arxiv.org/abs/2310.11628) | [Poster](https://drive.google.com/file/d/1kBMsduKSNS28x1AjWJf1dz56ti5RYzMM/view?usp=sharing) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
@@ -21,5 +23,3 @@
 [Anthology](http://aclweb.org/anthology/I17-4003) | Singh, A.K., **Thawani A.**, Panchal M., Gupta A., & McAuley J. _IJCNLP-2017 Task 3: Review Opinion Diversification (RevOpiD-2017)_. **IJCNLP** (2017).
 
 [PDF](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70145-5_17.pdf) | Singh A.K., **Thawani A.**, Gupta A., & Mundotiya R.K. _Evaluating Opinion Summarization in Ranking_. **AIRS** (2017).
-
-Other links to explore publications: | [Google Scholar](https://scholar.google.com/citations?user=i67YV2QAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242) | [DBLP](https://dblp.uni-trier.de/pid/208/4386.html) | [ORCID](https://orcid.org/0000-0002-4289-3607)

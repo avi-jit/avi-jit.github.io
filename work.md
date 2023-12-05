@@ -26,8 +26,18 @@ In addition to these self-driven products, I love helping startups build proof-o
 </tr>
 
 <tr>
+<td> <img src="https://drive.google.com/uc?export=view&id=1DSrp4sld_kuUbvk9C1FMIwvlfuNC0fbM" alt="DesignAR" style="width:200px;"/></td>
+<td> Our Augmented Reality app was a national finalists and worldwide #6 at the Microsoft Imagine Cup 2016 and the Samsung VR Appathon. Out startup DesignAR received several VC funding offers.</td>
+</tr>
+
+<tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=1e79bgv5P50IjrmXcZnh7k1YWNZopSI9x" alt="Election Guide Interactive" style="width:200px;"/></td>
 <td> I teamed up with journalists from the USC Annenberg Media Interactive Desk to narrate a <a href="https://annenberginteractives.com/2020-2021/voting-information-by-state/">data story</a> on US 2020 Elections.</td>
+</tr>
+
+<tr>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Eu4q54TZVmyOmxq4o2pfin6Tg6qTN0iC" alt="SUTD" style="width:200px;"/></td>
+<td> I was recruited in the Singapore Smart City Project to develop better sensors, so I also volunteered to model the incoming weather data from across the country with machine learning to make predictions. </td>
 </tr>
 
 <tr>
@@ -39,6 +49,12 @@ In addition to these self-driven products, I love helping startups build proof-o
 <td> <img src="https://drive.google.com/uc?export=view&id=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="Campus" style="width:200px;"/></td>
 <td> As an undergrad, I deployed several campus-wide data analytics including a harmless rip-off of Zuckerberg's FaceMash which received 11,000 hits in 2 days, as well as hourly internet usage statistics via the Intranet portal.</td>
 </tr>
+
+<tr>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Ecl230E7HHiGrdyaB6x2--vGXSomHJBf" alt="Contraption" style="width:200px;"/></td>
+<td> I'm a big fan of mechanical contraptions (like the inventive devices that Tom builds to trap Jerry) so I made my own </td>
+</tr>
+
 
 <!--</table>
 

@@ -2,6 +2,10 @@
 
 Alongside my PhD, I have been building and releasing consumer products by leading a group of employees and hacking away on weekends.
 
+In addition to these self-driven products, I love helping startups build proof-of-concepts and streamline their AI/NLP-related projects, whether it be in mobility APIs or fintech. Please reach out if you wish to chat!
+
+---
+
 <table>
 <tr>
 <td>Product</td><td>Description</td>
@@ -35,8 +39,6 @@ Alongside my PhD, I have been building and releasing consumer products by leadin
 <td> <img src="https://drive.google.com/uc?export=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="Campus" style="width:200px;"/></td>
 <td> As an undergrad, I deployed several campus-wide data analytics including a harmless rip-off of Zuckerberg's FaceMash which received 11,000 hits in 2 days, as well as hourly internet usage statistics via the Intranet portal.</td>
 </tr>
-
-In addition to these self-driven products, I love helping startups build proof-of-concepts and streamline their AI/NLP-related projects, whether it be in mobility APIs, fintech, or B2B tools.
 
 <!--</table>
 

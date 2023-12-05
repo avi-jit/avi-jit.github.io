@@ -40,7 +40,7 @@ I've been fortunate to also be able to do research with a number of amazing ment
 
 <tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=15PEiTs6m5CoErKemda8iAQiQ4EJg4eGv" alt="NEU" style="width:200px;"/></td>
-<td> Northeastern University, Boston. Mentor: [Byron Wallace](http://www.byronwallace.com/). Summer 2018. </td>
+<td> Northeastern University, Boston. Mentor: <a href="http://www.byronwallace.com/">Byron Wallace</a>. Summer 2018. </td>
 </tr>
 
 <tr>

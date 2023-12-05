@@ -1,4 +1,4 @@
-# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
+# **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
 ## Filmmaking
 I've made a couple of short films and videos in college:
@@ -6,14 +6,6 @@ I've made a couple of short films and videos in college:
 2. [World War 2 jet in our campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) - a documentary on a very rare artefact inside IIT (BHU) and the fascinating story behind it.
 3. [10 ways LC and Facebook is the same thing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/) - a comedy sketch on how our college hotspot resembles Facebook-ing
 4. The Last Date - a cute short flick, that is yet to be compiled and released!
-
-## Data Stories
-I love playing around with data. Some of my data science and visualization projects have been:
-1. Intranet portal of student pics (FaceTrash)
-2. Samsung employee entry/exit data (Knox)
-3. Internet usage statistics in campus (Squish)
-4. Singapore weather data modeling (SUTD Smart City)
-5. [US 2020 elections Voter Guide](http://annenberginteractives.com/2020-2021/voting-information-by-state/) with USC Annenberg Media 
 
 ## Writing
 I write articles, stories, newspapers, [blogs](https://thawani.notion.site), songs & novels. Some of them are:

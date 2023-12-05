@@ -6,7 +6,6 @@ Friends (as if I have any) call me Avi. I enjoy [side-projects](https://avi-jit.
 
 [Email](mailto:avijit.thawani@gmail.com) | [Resume](https://www.overleaf.com/read/pfvrgckrmmqv) | [Instagram](https://instagram.com/avijit_thawani) | [Twitter](https://twitter.com/thawani_avijit) | [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
 
----
 I've been fortunate to also be able to do research with a number of amazing mentors:
 
 <table>

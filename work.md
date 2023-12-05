@@ -1,4 +1,4 @@
-# **[Home](https://avi-jit.github.io/)** | [Product](https://avi-jit.github.io/work) | [Creative](https://avi-jit.github.io/fun) | [Research](https://avi-jit.github.io/papers)
+# **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
 Alongside my PhD, I have been building and releasing consumer products by leading a group of employees and hacking away on weekends.
 
@@ -19,6 +19,21 @@ Alongside my PhD, I have been building and releasing consumer products by leadin
 <tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=13aG77cgzaWYtDMK_hj7PDqRZU7i07P6L" alt="Living Surveys" style="width:200px;"/></td>
 <td> Eshaan helped me create <a href="https://github.com/EshaanAgg/Research-Literature-Manager">Living Surveys</a>, an open source lit review tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a <a href="https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2">talk at ISI</a> presenting the tool. </td>
+</tr>
+
+<tr>
+<td> <img src="https://drive.google.com/uc?export=1e79bgv5P50IjrmXcZnh7k1YWNZopSI9x" alt="Election Guide Interactive" style="width:200px;"/></td>
+<td> I teamed up with journalists from the USC Annenberg Media Interactive Desk to narrate a <a href="https://annenberginteractives.com/2020-2021/voting-information-by-state/">data story</a> on US 2020 Elections.</td>
+</tr>
+
+<tr>
+<td> <img src="https://drive.google.com/uc?export=1A7OkF-Xu9eMKbD6pa6_00z7rUC34vyqU" alt="Samsung" style="width:200px;"/></td>
+<td> Working with Samsung Research, I once voluntarily analyzed logged employee entry/exit data to analyze trends and share lessons with the Director of Samsung R&D Bengaluru. Turns out, attendance peaks around (free) lunchtime! </td>
+</tr>
+
+<tr>
+<td> <img src="https://drive.google.com/uc?export=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="Campus" style="width:200px;"/></td>
+<td> As an undergrad, I deployed several campus-wide data analytics including a harmless rip-off of Zuckerberg's FaceMash which received 11,000 hits in 2 days, as well as hourly internet usage statistics via the Intranet portal.</td>
 </tr>
 
 In addition to these self-driven products, I love helping startups build proof-of-concepts and streamline their AI/NLP-related projects, whether it be in mobility APIs, fintech, or B2B tools.

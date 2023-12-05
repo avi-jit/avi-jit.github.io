@@ -1,8 +1,8 @@
-# **[Home](https://avi-jit.github.io/)** | [Work](https://avi-jit.github.io/work) | [Fun](https://avi-jit.github.io/fun) | [Papers](https://avi-jit.github.io/papers)
+# **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
 # Publications
 
-[Arxiv](https://arxiv.org/abs/2310.11628) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
+[Arxiv](https://arxiv.org/abs/2310.11628) | [Poster](https://drive.google.com/file/d/1kBMsduKSNS28x1AjWJf1dz56ti5RYzMM/view?usp=sharing) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
 [Arxiv](https://arxiv.org/abs/2310.06204) | [Presentation](https://underline.io/lecture/71866-estimating-numbers-without-regression) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.
 

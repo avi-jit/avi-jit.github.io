@@ -17,7 +17,7 @@ In addition to these self-driven products, I love helping startups build proof-o
 
 <tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=1xYAvdh2UKMQ3lJ5f3nSx6Yua6txic2pE" alt="Ballpark" style="width:200px;"/></td>
-<td> Harsh helped me make <a href="https://ballpark.netlify.app">Wordle for Numbers</a> - a fun and informative game that lets you challenge your friends and improve your numeracy skills. </td>
+<td> Harsh helped me make <a href="https://ball-park.netlify.app">Wordle for Numbers</a> - a fun and informative game that lets you challenge your friends and improve your numeracy skills. </td>
 </tr>
 
 <tr>

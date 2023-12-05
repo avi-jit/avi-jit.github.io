@@ -5,7 +5,7 @@
 <td>Product</td><td>Description</td>
 
 <tr>
-<td> <img src="https://picsum.photos/200/300" alt="your image description" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Jsb1FkeVqjKuzQ5AzxeVny-3uaAyU_LG" alt="your image description" style="width:200px;"/></td>
 <td> <a href="https://t.me/saras_gpt_bot">Saras</a>  is your personal AI tutor, that I developed as a Telegram chatbot and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)! </td>
 </tr>
 
@@ -19,12 +19,12 @@
 <td> Eshaan helped me create <a href="https://github.com/EshaanAgg/Research-Literature-Manager">Living Surveys</a>, an open source lit review tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a <a href="https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2">talk at ISI</a> presenting the tool. </td>
 </tr>
 
-</table>
+<!--</table>
 
 ### Startup Consultancy
 I love helping startups build PoCs and streamline their AI/NLP-related projects, whether it be in mobility APIs, fintech, or B2B tools.
 
-<!--I believe every individual on earth has some amazing ideas and thoughts, which they sometimes pen down. I also believe that the strength of humanity lies in being able to _conveniently_ **express** and **access** these ideas. I just work on the convenience part. Things I've worked on or am working on are:
+I believe every individual on earth has some amazing ideas and thoughts, which they sometimes pen down. I also believe that the strength of humanity lies in being able to _conveniently_ **express** and **access** these ideas. I just work on the convenience part. Things I've worked on or am working on are:
 
 ## Access ideas:
 

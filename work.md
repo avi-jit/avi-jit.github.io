@@ -41,6 +41,11 @@ In addition to these self-driven products, I love helping startups build proof-o
 </tr>
 
 <tr>
+<td> <img src="https://drive.google.com/uc?export=view&id=1YyfklBraNiGwE9PewtUNnwdvwDM89TYY" alt="Covid" style="width:200px;"/></td>
+<td> Covid-19 brought tragic times in India. In between arranging oxygen for dying relatives, recovering myself, and chasing a conference submission deadline, I tried to <a href="https://avi-jit.github.io/covid-india/scatter#">visualize</a> the scale of the Indian crisis for Americans to better comprehend it. (Broken API)</td>
+</tr>
+
+<tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=1A7OkF-Xu9eMKbD6pa6_00z7rUC34vyqU" alt="Samsung" style="width:200px;"/></td>
 <td> Working with Samsung Research, I once voluntarily analyzed logged employee entry/exit data to analyze trends and share lessons with the Director of Samsung R&D Bengaluru. Turns out, attendance peaks around (free) lunchtime! </td>
 </tr>

@@ -4,6 +4,8 @@ My research helps language models **tokenize** and represent text better. Here a
 
 Other links to explore publications | [Google Scholar](https://scholar.google.com/citations?user=i67YV2QAAAAJ) | [Semantic Scholar](https://www.semanticscholar.org/author/Avijit-Thawani/37574242) | [DBLP](https://dblp.uni-trier.de/pid/208/4386.html) | [ORCID](https://orcid.org/0000-0002-4289-3607)
 
+---
+
 [Arxiv](https://arxiv.org/abs/2310.11628) | [Poster](https://drive.google.com/file/d/1kBMsduKSNS28x1AjWJf1dz56ti5RYzMM/view?usp=sharing) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
 [Arxiv](https://arxiv.org/abs/2310.06204) | [Presentation](https://underline.io/lecture/71866-estimating-numbers-without-regression) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.

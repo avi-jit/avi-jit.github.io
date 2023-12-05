@@ -1,10 +1,10 @@
 # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
-I'm Avijit Thawani, a Computer Science PhD student at [USC](https://www.cs.usc.edu). Friends (as if I have any) call me **Avi**. I work on Tokenization within Natural Language Processing, ).
+I'm Avijit Thawani, a PhD student in Los Angeles. I work on Tokenization within Natural Language Processing. 
 
-Feel free to contact me about my work, potential collaboration plans, or to discuss any ideas at:   `thawani@usc.edu`
-Here are a few other pointers to knowing me:
-[Twitter](https://twitter.com/thawani_avijit); [Medium](https://medium.com/@avijitthawani); [LinkedIn](https://www.linkedin.com/in/avijitthawani/); [Resume](https://www.overleaf.com/read/pfvrgckrmmqv).
+Friends (as if I have any) call me Avi. I enjoy [side-projects](https://avi-jit.github.io/work), [writing](https://thawani.notion.site/), [reading](https://www.goodreads.com/user/show/4791083-avijit-thawani), and [travel](https://avi-jit.github.io/fun).
+
+[Email](mailto:avijit.thawani@gmail.com) | [Resume](https://www.overleaf.com/read/pfvrgckrmmqv) | [Instagram](https://instagram.com/avijit_thawani) | [Twitter](https://twitter.com/thawani_avijit) | [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
 
 ---
 I've been fortunate to also be able to do research with a number of amazing mentors:

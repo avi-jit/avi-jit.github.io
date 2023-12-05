@@ -1,22 +1,34 @@
 # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
-## Filmmaking
-I've made a couple of short films and videos in college:
-1. [Stoppping by Woods](https://www.youtube.com/watch?v=Uy_3XKqsJZk) - a long short film on conversations. 60k views last I checked!
-2. [World War 2 jet in our campus](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) - a documentary on a very rare artefact inside IIT (BHU) and the fascinating story behind it.
-3. [10 ways LC and Facebook is the same thing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/) - a comedy sketch on how our college hotspot resembles Facebook-ing
-4. The Last Date - a cute short flick, that is yet to be compiled and released!
+I love storytelling. My most popular [short film](https://www.youtube.com/watch?v=Uy_3XKqsJZk) has over 65,000 views on YouTube, which involved two whole years and the effort of 50+ volunteer cast and crew. My other productions include a [documentary on a World War 2 jet](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) and a [comedy sketch on how our college hotspot resembles Facebook-ing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), as well as a cute romantic film, that is yet to be compiled and released!
 
-## Writing
-I write articles, stories, newspapers, [blogs](https://thawani.notion.site), songs & novels. Some of them are:
+<img src="https://drive.google.com/uc?export=view&id=1YbZTXxktktLfgZsm2ReRHK34693FDpnB" href="https://www.youtube.com/watch?v=Uy_3XKqsJZk" alt="Saras edtech chatbot" style="width:80%;"/>
+
+I also write articles, stories, newspapers, [blogs](https://thawani.notion.site), songs & novels. Some of them are:
 1. **Published Articles**: I have published in [The Print](https://theprint.in/campus-voice/will-panjshir-become-a-taiwan-afghanistans-story-matches-with-china/732849/) and [ISI News](https://www.isi.edu/news/38134/do-humans-trust-ai-coworkers/).
 2. **Sci-fi novel**: DNA Revolution, a story of Venezuela embroilled in a politico-military crisis on the eve of a major breakthrough in genetics.
 3. **Short stories book**: Martyrs' Horizon, inspired by a Chicken Soup book I read.
 4. **Newspaper**: Articles for the college newsletter [Quest](https://issuu.com/thequest_iitbhu) at IIT BHU, and the school newsletter at City Montessori School
 5. **Blogs**: I have some old ones on [Medium](https://medium.com/@avijitthawani) and many newer ones on [Notion](https://thawani.notion.site).
- 
-## Miscellaneous
-1. **Books**: I love books but am a slow reader. Currently loving Cixin Liu, Murakami, Albert Camus, and Walter Isaacson. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)
+
+I've also participated in festival management, street plays, skits, dance clubs, robo-soccer, rap songs, stand-up comedy, handicrafts, and sketching. 
+
+I consider myself a lifelong learner and a big fan of [spaced repetition](https://ncase.me/remember). I've enrolled in a wide range of classes like Interactive Journalism, Chinese History, Macroeconomics, Social Entrepreneurship, Self-Defense, Improv, Hip-Hop Dance, Cognitive Neuroscience, Film Appreciation, and African History.
+
+I'm an avid reader of books, both non-fiction and fiction. Currently loving Murakami. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani).
+
+I have been fortunate enough to live in four countries and travel across the world. Some of the cities I've been to are (most recent first):
+- Europe: London, Berlin, Amsterdam, Utrecht, Florence, Pisa, Bruges, Dubrovnik, Dublin, Killarney, Galway, Cambridge
+- United States: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Diego, San Francisco, Michigan, Pittsburgh
+- Asia: Beijing, Singapore, Kuala Lumpur, Seoul, Kathmandu, Tokyo
+- New Zealand: Auckland, Queenstown, Wanaka, Makarora
+- South India: Bangalore, Coorg, Pondicherry, Madras, Auroville, Rameshwaram
+- West India: Mumbai, Goa, Pune, Shirdi
+- East India: Puri, Kolkata
+- North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
+- Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
+
+<!-- 1. **Books**: I love books but am a slow reader. Currently loving Cixin Liu, Murakami, Albert Camus, and Walter Isaacson. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)
 2. **Street Play**: on blood donation at a slum near campus
 3. **Dance**: ranging from Bhangra to David Guetta and Govinda dance, and most recently Hip-Hop.
 4. **Robotics**: stood 1st at a robot making and handling event - [the best day in my life](https://www.facebook.com/avijit.thawani/posts/796281477100748). If I scripted the day, I couldn't have made it any better.
@@ -27,17 +39,8 @@ I write articles, stories, newspapers, [blogs](https://thawani.notion.site), son
 9. **Crafts**: I've helped my friend Akash in co-founding a startup called [HandyPresents](https://www.facebook.com/handypresents/) which makes persoanlised handmade gifts for special occasions. Think of the 'Handwritten Greeting Cards' company as in the movie 'Her', but with more than just letters! We aggregate tinkering Instagram-ers and local craftsmen, with just the right amount of input from your end to deliver a one-of-a-kind experience for your loved ones.
 10. **Sketching**: My brother [Siddharth Thawani](https://www.instagram.com/sidart.thawani/) and I loved cartooning as kids (he still does) and I sketched a comic once in three hours on Hanuman, the monkey god in Hindu mythology.
 
-## Travel
-I've been around a lot, and wish to continue to do so. Some of the cities I've been to are (most recent first):
-- Europe: London, Berlin, Amsterdam, Utrecht, Florence, Pisa, Bruges, Dubrovnik, Dublin, Killarney, Galway, Cambridge
-- United States: Baltimore, New York, Philadelphia, Boston, Los Angeles, Santa Barbara, San Jose, San Francisco, Michigan, Pittsburgh
-- Asia: Beijing, Singapore, Kuala Lumpur, Seoul, Kathmandu, Tokyo
-- New Zealand: Auckland, Queenstown, Wanaka, Makarora
-- South India: Bangalore, Coorg, Pondicherry, Madras, Auroville, Rameshwaram
-- West India: Mumbai, Goa, Pune, Shirdi
-- East India: Puri, Kolkata
-- North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
-- Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
+ Travel
+I've been around a lot, and wish to continue to do so. 
 
 <!--
 ## Sketching

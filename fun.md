@@ -28,8 +28,6 @@ I have been fortunate enough to live in four countries and travel across the wor
 - North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
 - Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
 
-- # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun)
-
 <!-- HTML Carousel Start -->
 <div class="carousel-container">
   <div class="carousel-slide">

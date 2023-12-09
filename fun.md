@@ -28,6 +28,73 @@ I have been fortunate enough to live in four countries and travel across the wor
 - North India: Manali, Nainital, Dehradun, Haridwar, Hrishikesh, Shimla, Chandigarh
 - Central India: New Delhi, Lucknow, Varanasi, Allahabad, Agra, Dudhwa
 
+- # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun)
+
+<!-- HTML Carousel Start -->
+<div class="carousel-container">
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1Jsb1FkeVqjKuzQ5AzxeVny-3uaAyU_LG" style="width:100%">
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1xYAvdh2UKMQ3lJ5f3nSx6Yua6txic2pE" style="width:100%">
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=13aG77cgzaWYtDMK_hj7PDqRZU7i07P6L" style="width:100%">
+  </div>
+  <a class="carousel-control left" onclick="moveSlide(-1)">&#10094;</a>
+  <a class="carousel-control right" onclick="moveSlide(1)">&#10095;</a>
+</div>
+<!-- HTML Carousel End -->
+
+<style>
+.carousel-container {
+  width: 100%;
+  max-width: 600px;
+  position: relative;
+  margin: auto;
+}
+.carousel-slide {
+  display: none;
+}
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  cursor: pointer;
+  font-size: 24px;
+  color: white;
+  background-color: rgba(0,0,0,0.5);
+  padding: 10px;
+}
+.carousel-control.left {
+  left: 10px;
+}
+.carousel-control.right {
+  right: 10px;
+}
+</style>
+
+<script>
+var slideIndex = 1;
+showSlide(slideIndex);
+
+function moveSlide(n) {
+  showSlide(slideIndex += n);
+}
+
+function showSlide(n) {
+  var i;
+  var slides = document.getElementsByClassName("carousel-slide");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  slides[slideIndex-1].style.display = "block";  
+}
+</script>
+
+
 <!-- 1. **Books**: I love books but am a slow reader. Currently loving Cixin Liu, Murakami, Albert Camus, and Walter Isaacson. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)
 2. **Street Play**: on blood donation at a slum near campus
 3. **Dance**: ranging from Bhangra to David Guetta and Govinda dance, and most recently Hip-Hop.

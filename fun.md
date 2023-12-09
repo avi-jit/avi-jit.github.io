@@ -47,7 +47,7 @@ I have been fortunate enough to live in four countries and travel across the wor
     <div class="carousel-caption">Inspecting the fortifications at King's Landing (Dubrovnik, Croatia)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <img src="https://drive.google.com/uc?export=view&id=1AVakM8Vt91Yyh8oFbJIgAe_GP9OWMeIB" alt="skydiving">
     <div class="carousel-caption">Skydiving (Auckland, New Zealand)</div>
   </div>
   <div class="carousel-slide">
@@ -60,7 +60,7 @@ I have been fortunate enough to live in four countries and travel across the wor
   </div>
   <div class="carousel-slide">
     <img src="https://drive.google.com/uc?export=view&id=1k0CO74s7Ly4cGQgMOwhWOy8bP_G-4Lre" alt="Lake District">
-    <div class="carousel-caption">A French, a Brit, a Brazillian, an Indian, and a Turk walk into a <del>bar</del> mountain (Lake District, UK) (</div>
+    <div class="carousel-caption">A French, a Brit, a Brazillian, an Indian, and a Turk walk into a <del>bar</del> mountain (Lake District, UK) </div>
   </div>
   <div class="carousel-slide">
     <img src="https://drive.google.com/uc?export=view&id=1McVbqp-RLGKKLObbun-4dpt3HBLulLNd" alt="Redwood">
@@ -71,7 +71,7 @@ I have been fortunate enough to live in four countries and travel across the wor
     <div class="carousel-caption">Seat of the Inglorious Empire (Westminster, London)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <img src="https://drive.google.com/uc?export=view&id=1wkjVh2Na5OZ_ADQerDerWtrw-xzigAuI" alt="wanaka">
     <div class="carousel-caption">The most beautifully placed tree on the planet (Wanaka Tree, New Zealand)</div>
   </div>
   <a class="carousel-control left" onclick="moveSlide(-1)">&#10094;</a>

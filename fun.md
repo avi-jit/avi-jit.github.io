@@ -31,13 +31,48 @@ I have been fortunate enough to live in four countries and travel across the wor
 <!-- HTML Carousel Start -->
 <div class="carousel-container">
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1Jsb1FkeVqjKuzQ5AzxeVny-3uaAyU_LG" style="width:100%">
+    <img src="https://drive.google.com/uc?export=view&id=1oINJ8qBairdI7PNZcwBWBhx7KP4bKPz4" alt="Big Sur">
+    <div class="carousel-caption">Big Sur, California</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1xYAvdh2UKMQ3lJ5f3nSx6Yua6txic2pE" style="width:100%">
+    <img src="https://drive.google.com/uc?export=view&id=1xvhJkok7p1jul9X261ekJyDh-Zl4icIn" alt="platform 9 3/4">
+    <div class="carousel-caption">Off to Hogwarts (Platform 9 3/4 at King's Cross, London)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=13aG77cgzaWYtDMK_hj7PDqRZU7i07P6L" style="width:100%">
+    <img src="https://drive.google.com/uc?export=view&id=17h3GnPh-QQ3qEl35qeFR5iBfwtd3FoCz" alt="Grand Canyon">
+    <div class="carousel-caption">Inside the Grand Canyon (Nevada, USA)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1Q_5vbdgOLfWR6peUt5vGQUTLMnuoFhc4" alt="Dubrovnik">
+    <div class="carousel-caption">Inspecting the fortifications at King's Landing (Dubrovnik, Croatia)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <div class="carousel-caption">Skydiving (Auckland, New Zealand)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1vZdQhHgu3p98n05xQzIt48nOmntm3HwE" alt="Unicorn">
+    <div class="carousel-caption">The closest thing to a unicorn on Earth (Ireland)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1VVIbLdCQlMt19yRzuUIG8OpsFD33Lm6P" alt="Shashi Tharoor">
+    <div class="carousel-caption">Book-signing with Dr Shashi Tharoor, an Indian politician (Cambridge, UK)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1k0CO74s7Ly4cGQgMOwhWOy8bP_G-4Lre" alt="Lake District">
+    <div class="carousel-caption">A French, a Brit, a Brazillian, an Indian, and a Turk walk into a <del>bar</del> mountain (Lake District, UK) (</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1McVbqp-RLGKKLObbun-4dpt3HBLulLNd" alt="Redwood">
+    <div class="carousel-caption">Amidst the giant Redwoods (Northern California)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <div class="carousel-caption">Seat of the Inglorious Empire (Westminster, London)</div>
+  </div>
+  <div class="carousel-slide">
+    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <div class="carousel-caption">The most beautifully placed tree on the planet (Wanaka Tree, New Zealand)</div>
   </div>
   <a class="carousel-control left" onclick="moveSlide(-1)">&#10094;</a>
   <a class="carousel-control right" onclick="moveSlide(1)">&#10095;</a>
@@ -53,6 +88,24 @@ I have been fortunate enough to live in four countries and travel across the wor
 }
 .carousel-slide {
   display: none;
+  position: relative;
+  height: 400px; /* Fixed height */
+}
+.carousel-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Ensures image covers the slide area */
+}
+.carousel-caption {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 .carousel-control {
   position: absolute;
@@ -91,6 +144,7 @@ function showSlide(n) {
   slides[slideIndex-1].style.display = "block";  
 }
 </script>
+
 
 
 <!-- 1. **Books**: I love books but am a slow reader. Currently loving Cixin Liu, Murakami, Albert Camus, and Walter Isaacson. Trying to update my list on [Goodreads](https://www.goodreads.com/user/show/4791083-avijit-thawani)

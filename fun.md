@@ -2,7 +2,9 @@
 
 I love storytelling. My most popular [short film](https://www.youtube.com/watch?v=Uy_3XKqsJZk) has over 65,000 views on YouTube, which involved two whole years and the effort of 50+ volunteer cast and crew. My other productions include a [documentary on a World War 2 jet](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) and a [comedy sketch on how our college hotspot resembles Facebook-ing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), as well as a cute romantic film, that is yet to be compiled and released!
 
-<img src="https://drive.google.com/uc?export=view&id=1YbZTXxktktLfgZsm2ReRHK34693FDpnB" href="https://www.youtube.com/watch?v=Uy_3XKqsJZk" alt="Saras edtech chatbot" style="width:100%;"/>
+<a href="https://www.youtube.com/watch?v=Uy_3XKqsJZk">
+<img src="https://drive.google.com/uc?export=view&id=1YbZTXxktktLfgZsm2ReRHK34693FDpnB"  alt="Saras edtech chatbot" style="width:100%;"/>
+</a>
 
 I also write articles, stories, newspapers, [blogs](https://thawani.notion.site), songs & novels. Some of them are:
 1. **Published Articles**: I have published in [The Print](https://theprint.in/campus-voice/will-panjshir-become-a-taiwan-afghanistans-story-matches-with-china/732849/) and [ISI News](https://www.isi.edu/news/38134/do-humans-trust-ai-coworkers/).

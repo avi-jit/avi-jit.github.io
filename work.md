@@ -11,52 +11,52 @@ In addition to these self-driven products, I love helping startups build proof-o
 <td>Product</td><td>Description</td>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1Jsb1FkeVqjKuzQ5AzxeVny-3uaAyU_LG" alt="Saras edtech chatbot" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Jsb1FkeVqjKuzQ5AzxeVny-3uaAyU_LG" alt="Saras edtech chatbot" style="width:400px;"/></td>
 <td> <a href="https://t.me/saras_gpt_bot">Saras</a>  is your personal AI tutor, that I developed as a Telegram chatbot and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)! </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1xYAvdh2UKMQ3lJ5f3nSx6Yua6txic2pE" alt="Ballpark" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1xYAvdh2UKMQ3lJ5f3nSx6Yua6txic2pE" alt="Ballpark" style="width:400px;"/></td>
 <td> Harsh helped me make <a href="https://ball-park.netlify.app">Wordle for Numbers</a> - a fun and informative game that lets you challenge your friends and improve your numeracy skills. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=13aG77cgzaWYtDMK_hj7PDqRZU7i07P6L" alt="Living Surveys" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=13aG77cgzaWYtDMK_hj7PDqRZU7i07P6L" alt="Living Surveys" style="width:400px;"/></td>
 <td> Eshaan helped me create <a href="https://github.com/EshaanAgg/Research-Literature-Manager">Living Surveys</a>, an open source lit review tool that you can use to avoid FOMO in academia. We use Github Actions, Semantic Scholar, and Netlify to help you host your own living survey paper, with daily updated recommendations for new and relevant publications! Here's a <a href="https://youtu.be/FUIq9-lJ9ag?si=YjWr4ZFZjReJsEI2">talk at ISI</a> presenting the tool. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1DSrp4sld_kuUbvk9C1FMIwvlfuNC0fbM" alt="DesignAR" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1DSrp4sld_kuUbvk9C1FMIwvlfuNC0fbM" alt="DesignAR" style="width:400px;"/></td>
 <td> Our Augmented Reality app was a national finalists and worldwide #6 at the Microsoft Imagine Cup 2016 and the Samsung VR Appathon. Out startup DesignAR received several VC funding offers.</td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1e79bgv5P50IjrmXcZnh7k1YWNZopSI9x" alt="Election Guide Interactive" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1e79bgv5P50IjrmXcZnh7k1YWNZopSI9x" alt="Election Guide Interactive" style="width:400px;"/></td>
 <td> I teamed up with journalists from the USC Annenberg Media Interactive Desk to narrate a <a href="https://annenberginteractives.com/2020-2021/voting-information-by-state/">data story</a> on US 2020 Elections.</td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1Eu4q54TZVmyOmxq4o2pfin6Tg6qTN0iC" alt="SUTD" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Eu4q54TZVmyOmxq4o2pfin6Tg6qTN0iC" alt="SUTD" style="width:400px;"/></td>
 <td> I was recruited in the Singapore Smart City Project to develop better sensors, so I also volunteered to model the incoming weather data from across the country with machine learning to make predictions. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1YyfklBraNiGwE9PewtUNnwdvwDM89TYY" alt="Covid" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1YyfklBraNiGwE9PewtUNnwdvwDM89TYY" alt="Covid" style="width:400px;"/></td>
 <td> Covid-19 brought tragic times in India. In between arranging oxygen for dying relatives, recovering myself, and chasing a conference submission deadline, I tried to <a href="https://avi-jit.github.io/covid-india/scatter#">visualize</a> the scale of the Indian crisis for Americans to better comprehend it. (Broken API)</td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1A7OkF-Xu9eMKbD6pa6_00z7rUC34vyqU" alt="Samsung" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1A7OkF-Xu9eMKbD6pa6_00z7rUC34vyqU" alt="Samsung" style="width:400px;"/></td>
 <td> Working with Samsung Research, I once voluntarily analyzed logged employee entry/exit data to analyze trends and share lessons with the Director of Samsung R&D Bengaluru. Turns out, attendance peaks around (free) lunchtime! </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="Campus" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="Campus" style="width:400px;"/></td>
 <td> As an undergrad, I deployed several campus-wide data analytics including a harmless rip-off of Zuckerberg's FaceMash which received 11,000 hits in 2 days, as well as hourly internet usage statistics via the Intranet portal.</td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1Ecl230E7HHiGrdyaB6x2--vGXSomHJBf" alt="Contraption" style="width:200px;"/></td>
+<td> <img src="https://drive.google.com/uc?export=view&id=1Ecl230E7HHiGrdyaB6x2--vGXSomHJBf" alt="Contraption" style="width:400px;"/></td>
 <td> I'm a big fan of mechanical contraptions (like the inventive devices that Tom builds to trap Jerry) so I made my own </td>
 </tr>
 

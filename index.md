@@ -18,17 +18,17 @@ I've been fortunate to also be able to do research with a number of amazing ment
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=10EwxMDgcnySlcpoIM4H6BOoqGMvtTt-m" alt="MSR" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/1e98b85907078f803c83fb88e41ee97344f3c6436a650c4c6e41615363a98fc8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31304577784d4467636e79536c63706f494d344836424f6f71474d767454742d6d" alt="MSR" style="width:200px;"/></td>
 <td> <a href="https://www.microsoft.com/en-us/research/lab/microsoft-health-futures/">Microsoft Research Health Futures</a>, Cambridge UK. Mentors: Stephanie Hyland, Flora Liu, Shruthi Bannur. Summer 2023. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=12k74g2Sbiq5a89MF9buK__iOElNWJF3M" alt="Alexa" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/a257c2419aaa8bada3e9e0649082e9dbbaa06a528278a906afa88d6ede32ba27/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31326b3734673253626971356138394d463962754b5f5f694f456c4e574a46334d" alt="Alexa" style="width:200px;"/></td>
 <td> Amazon Alexa Conversations Lab126 Sunnyvale. Mentors: Rohan Mukherjee, Hann Wang, <a href="https://www.amazon.science/author/arjit-biswas">Arijit Biswas</a>. Summer 2022. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1iUX8NmX_Sz5-MKdlN1NhWhXjEr-96kY5" alt="AI2" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/f37629770aa525fbe1a1ee6b7ea98afeaf5e7a123e1e1ec1f38fbcd311b7abaf/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31695558384e6d585f537a352d4d4b646c4e314e685768586a45722d39366b5935" alt="AI2" style="width:200px;"/></td>
 <td> Allen Institute of Artificial Intelligence (Aristo). Mentors: <a href="http://ashwinkalyan.com/">Ashwin Kalyan</a>, Peter Clark. Summer 2021.</td>
 </tr>
 
@@ -38,22 +38,22 @@ I've been fortunate to also be able to do research with a number of amazing ment
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=15PEiTs6m5CoErKemda8iAQiQ4EJg4eGv" alt="NEU" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/8c5853fad98c422a707303a2c449feb0af2d758db956d771ad554691137cc288/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31355045695473366d35436f45724b656d646138694151695134454a6734654776" alt="NEU" style="width:200px;"/></td>
 <td> Northeastern University, Boston. Mentor: <a href="http://www.byronwallace.com/">Byron Wallace</a>. Summer 2018. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1A7OkF-Xu9eMKbD6pa6_00z7rUC34vyqU" alt="Samsung style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/667c51b662be4f33513ea6398bd1fd329032dab3d6c4e05cca7cc8e84d520d5e/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3141374f6b462d587539654d4b6244367061365f30307a37725543333476797155" alt="Samsung style="width:200px;"/></td>
 <td> Samsung Research, Bengaluru. Team Bixby. Summer 2017. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1Eu4q54TZVmyOmxq4o2pfin6Tg6qTN0iC" alt="SUTD" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/4f3a47cddc203cfdbcb209e1088b9875f84d59c4d41b02ad45d744571e1bad5a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31457534713534545a566d794f6d7871346f327066696e3654673671544e306943" alt="SUTD" style="width:200px;"/></td>
 <td> Singapore University of Technology and Design, Singapore. Mentor: Yuen Chau. Summer 2016. </td>
 </tr>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1ZXDsagRmw9nghQX8Npf4XWTZ7YBMDqEE" alt="MSR" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/ff92bad8bdef26a64ad6824017f1fd8ebac6d7751e4f85f99254028e0744a14e/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d315a5844736167526d77396e67685158384e7066345857545a3759424d44714545" alt="MSR" style="width:200px;"/></td>
 <td>  I did my undergrad and masters in Computer Science at the Indian Institute of Technology <a href="https://www.iitbhu.ac.in/dept/cse">IIT BHU</a> Varanasi. </td>
 </tr>
 

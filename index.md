@@ -13,7 +13,7 @@ I've been fortunate to also be able to do research with a number of amazing ment
 <td>Affiliation</td><td>Mentors</td>
 
 <tr>
-<td> <img src="https://drive.google.com/uc?export=view&id=1E8eZggHzxcg-7hF4frzmEtP8lqt8aGD1" alt="USC" style="width:200px;"/></td>
+<td> <img src="https://camo.githubusercontent.com/84b63144dd2419e3962599e70cc0d71181d698c9e26b1338849042e401a63cb6/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d314538655a6767487a7863672d3768463466727a6d457450386c71743861474431" alt="USC" style="width:200px;"/></td>
 <td> My thesis committee: <a href="http://jaypujara.org">Jay Pujara</a>, <a href="http://swabhs.com">Swabha Swayamdipta</a>, <a href="https://dyogatama.github.io/">Dani Yogatama</a>. </td>
 </tr>
 

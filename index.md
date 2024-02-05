@@ -32,20 +32,20 @@ I've been fortunate to also be able to do research with a number of amazing ment
 <td> Allen Institute of Artificial Intelligence (Aristo). Mentors: <a href="http://ashwinkalyan.com/">Ashwin Kalyan</a>, Peter Clark. Summer 2021.</td>
 </tr>
 
-<tr>
+<!---<tr>
 <td> <img src="https://drive.google.com/uc?export=view&id=12_X0AXjNcn1Qt1mHWTPYN2OgkoeLy7yh" alt="IBM" style="width:200px;"/></td>
 <td> <a href="https://sites.google.com/site/biplavsrivastava/">Biplav Srivastava</a>, then at IBM Research NY. Spring 2019. </td>
-</tr>
+</tr>-->
 
 <tr>
 <td> <img src="https://camo.githubusercontent.com/8c5853fad98c422a707303a2c449feb0af2d758db956d771ad554691137cc288/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31355045695473366d35436f45724b656d646138694151695134454a6734654776" alt="NEU" style="width:200px;"/></td>
 <td> Northeastern University, Boston. Mentor: <a href="http://www.byronwallace.com/">Byron Wallace</a>. Summer 2018. </td>
 </tr>
 
-<tr>
+<!---<tr>
 <td> <img src="https://camo.githubusercontent.com/667c51b662be4f33513ea6398bd1fd329032dab3d6c4e05cca7cc8e84d520d5e/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3141374f6b462d587539654d4b6244367061365f30307a37725543333476797155" alt="Samsung style="width:200px;"/></td>
 <td> Samsung Research, Bengaluru. Team Bixby. Summer 2017. </td>
-</tr>
+</tr>-->
 
 <tr>
 <td> <img src="https://camo.githubusercontent.com/4f3a47cddc203cfdbcb209e1088b9875f84d59c4d41b02ad45d744571e1bad5a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31457534713534545a566d794f6d7871346f327066696e3654673671544e306943" alt="SUTD" style="width:200px;"/></td>

@@ -3,7 +3,7 @@
 I love storytelling. My most popular [short film](https://www.youtube.com/watch?v=Uy_3XKqsJZk) has over 65,000 views on YouTube, which involved two whole years and the effort of 50+ volunteer cast and crew. My other productions include a [documentary on a World War 2 jet](https://www.facebook.com/fmc.iitbhu/videos/747155185437805/) and a [comedy sketch on how our college hotspot resembles Facebook-ing](https://www.facebook.com/fmc.iitbhu/videos/807030382783618/), as well as a cute romantic film, that is yet to be compiled and released!
 
 <a href="https://www.youtube.com/watch?v=Uy_3XKqsJZk">
-<img src="https://drive.google.com/uc?export=view&id=1YbZTXxktktLfgZsm2ReRHK34693FDpnB"  alt="Saras edtech chatbot" style="width:100%;"/>
+<img src="https://camo.githubusercontent.com/46cc075fe9fc62e9bb929f3b3d099d68be4ed5143cc1be73d980c7eabd1b2f50/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d3159625a5458786b746b744c66675a736d32526552484b33343639334644706e42"  alt="Saras edtech chatbot" style="width:100%;"/>
 </a>
 
 I also write articles, stories, newspapers, [blogs](https://thawani.notion.site), songs & novels. Some of them are:
@@ -33,47 +33,47 @@ I have been fortunate enough to live in four countries and travel across the wor
 <!-- HTML Carousel Start -->
 <div class="carousel-container">
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1oINJ8qBairdI7PNZcwBWBhx7KP4bKPz4" alt="Big Sur">
+    <img src="https://camo.githubusercontent.com/a0460bf797789392dd9e679625aef788be2f3ebfddaf5ddddbb02a48348ccabe/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d316f494e4a387142616972644937504e5a63774257426878374b5034624b507a34" alt="Big Sur">
     <div class="carousel-caption">Big Sur, California</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1xvhJkok7p1jul9X261ekJyDh-Zl4icIn" alt="platform 9 3/4">
+    <img src="https://camo.githubusercontent.com/0c47718658fbefe0ff4a9e54f77c13e4a86dc69aa46e29df0994ddcdc56314a3/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d317876684a6b6f6b3770316a756c3958323631656b4a7944682d5a6c346963496e" alt="platform 9 3/4">
     <div class="carousel-caption">Off to Hogwarts (Platform 9 3/4 at King's Cross, London)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=17h3GnPh-QQ3qEl35qeFR5iBfwtd3FoCz" alt="Grand Canyon">
+    <img src="https://camo.githubusercontent.com/a8be52297f941891b29ece888dee497a616018f0e49dc22af75a5c061ba841b4/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31376833476e50682d51513371456c3335716546523569426677746433466f437a" alt="Grand Canyon">
     <div class="carousel-caption">Inside the Grand Canyon (Nevada, USA)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1Q_5vbdgOLfWR6peUt5vGQUTLMnuoFhc4" alt="Dubrovnik">
+    <img src="https://camo.githubusercontent.com/15415c37afdfe04fec2767de69afedf66a73d6860a9157e750235e5fbf9633e8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31515f35766264674f4c66575236706555743576475155544c4d6e756f46686334" alt="Dubrovnik">
     <div class="carousel-caption">Inspecting the fortifications at King's Landing (Dubrovnik, Croatia)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1AVakM8Vt91Yyh8oFbJIgAe_GP9OWMeIB" alt="skydiving">
+    <img src="https://camo.githubusercontent.com/4d5e8853746e806fd85d885d2b472bec1b926fcc170d8cf334c7d9d7af2efdc8/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d314156616b4d3856743931597968386f46624a496741655f4750394f574d654942" alt="skydiving">
     <div class="carousel-caption">Skydiving (Auckland, New Zealand)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1vZdQhHgu3p98n05xQzIt48nOmntm3HwE" alt="Unicorn">
+    <img src="https://camo.githubusercontent.com/83fe3bc62a885bfff2c6fa5b74ec3b1c46a2b496f63dac351c8cb1023007ca26/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31765a645168486775337039386e303578517a497434386e4f6d6e746d33487745" alt="Unicorn">
     <div class="carousel-caption">The closest thing to a unicorn on Earth (Ireland)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1VVIbLdCQlMt19yRzuUIG8OpsFD33Lm6P" alt="Shashi Tharoor">
+    <img src="https://camo.githubusercontent.com/39d9b8169a2a8cb0d4592a591da33069821f0a700cbe5e2c500708abdd6b7238/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31565649624c6443516c4d74313979527a75554947384f7073464433334c6d3650" alt="Shashi Tharoor">
     <div class="carousel-caption">Book-signing with Dr Shashi Tharoor, an Indian politician (Cambridge, UK)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1k0CO74s7Ly4cGQgMOwhWOy8bP_G-4Lre" alt="Lake District">
+    <img src="https://camo.githubusercontent.com/b141b51b011d8bcdf2643368703e1e08d78b1357ecb7106235db51189fdb204d/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d316b30434f373473374c7934634751674d4f7768574f793862505f472d344c7265" alt="Lake District">
     <div class="carousel-caption">A French, a Brit, a Brazillian, an Indian, and a Turk walk into a <del>bar</del> mountain (Lake District, UK) </div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1McVbqp-RLGKKLObbun-4dpt3HBLulLNd" alt="Redwood">
+    <img src="https://camo.githubusercontent.com/a1b3c15960be8a5204dc3b54cca55934cdd1bdba64f78d56bb08b5485b354aa3/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d314d63566271702d524c474b4b4c4f6262756e2d346470743348424c756c4c4e64" alt="Redwood">
     <div class="carousel-caption">Amidst the giant Redwoods (Northern California)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1_GpCqL5P0zLRCpv6JK4y18SuPnFqkZLL" alt="westminster">
+    <img src="https://camo.githubusercontent.com/ac8295001c1f4431c5bcb32ef2dad42b25f8eb5f22f316175916c03d8d155e29/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d315f477043714c3550307a4c52437076364a4b347931385375506e46716b5a4c4c" alt="westminster">
     <div class="carousel-caption">Seat of the Inglorious Empire (Westminster, London)</div>
   </div>
   <div class="carousel-slide">
-    <img src="https://drive.google.com/uc?export=view&id=1wkjVh2Na5OZ_ADQerDerWtrw-xzigAuI" alt="wanaka">
+    <img src="https://camo.githubusercontent.com/8561fb7d6e780dcf6450febbeb78618263a434cd3d2ca9e4770e92cc1d318738/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31776b6a5668324e61354f5a5f4144516572446572577472772d787a6967417549" alt="wanaka">
     <div class="carousel-caption">The most beautifully placed tree on the planet (Wanaka Tree, New Zealand)</div>
   </div>
   <a class="carousel-control left" onclick="moveSlide(-1)">&#10094;</a>

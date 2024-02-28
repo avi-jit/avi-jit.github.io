@@ -6,7 +6,9 @@ Other links to explore publications | [Google Scholar](https://scholar.google.co
 
 ---
 
-[Arxiv](https://arxiv.org/abs/2310.11628) | [Poster](https://drive.google.com/file/d/1kBMsduKSNS28x1AjWJf1dz56ti5RYzMM/view?usp=sharing) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
+Link | **Thawani A.**, Ghanekar S., Kumar D., Pujara J. _Does Subword Vocabulary hold back Machine Translation?_. (submitted 2024).
+
+[Anthology](https://aclanthology.org/2023.findings-emnlp.662/) | [Arxiv](https://arxiv.org/abs/2310.11628) | [Poster](https://drive.google.com/file/d/1kBMsduKSNS28x1AjWJf1dz56ti5RYzMM/view?usp=sharing) | [Code](https://github.com/avi-jit/eTok) | **Thawani A.**, Ghanekar S., Zhu X., Pujara J. _Learn Your Tokens: Word-Pooled Tokenization for Language Modeling_. **EMNLP 2023** Findings.
 
 [Arxiv](https://arxiv.org/abs/2310.06204) | [Presentation](https://underline.io/lecture/71866-estimating-numbers-without-regression) | **Thawani A.**, Pujara J., Kalyan A. _Estimating Numbers without Regression_. Negative Insights workshop at **EACL 2023**.
 

@@ -4,7 +4,7 @@ I'm Avijit Thawani, a PhD student in Los Angeles. I work on Tokenization within 
 
 Friends (as if I have any) call me Avi. I enjoy [side-projects](https://avi-jit.github.io/work), [writing](https://thawani.notion.site/), [reading](https://www.goodreads.com/user/show/4791083-avijit-thawani), and [travel](https://avi-jit.github.io/fun).
 
-[Email](mailto:avijit.thawani@gmail.com) | [Resume](https://www.overleaf.com/read/pfvrgckrmmqv) | [Instagram](https://instagram.com/avijit_thawani) | [Twitter](https://twitter.com/thawani_avijit) | [LinkedIn](https://www.linkedin.com/in/avijitthawani/)
+[Email](mailto:avijit.thawani@gmail.com) | [Resume](https://www.overleaf.com/read/pfvrgckrmmqv) | [Instagram](https://instagram.com/avijit_thawani) | [Twitter](https://twitter.com/thawani_avijit) | [LinkedIn](https://www.linkedin.com/in/avi-jit/)
 
 I've been fortunate to also be able to do research with a number of amazing mentors:
 

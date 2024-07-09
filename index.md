@@ -1,6 +1,6 @@
 # **[🏠](https://avi-jit.github.io/)** | [🔬 Research](https://avi-jit.github.io/papers) | [🛠️ Build](https://avi-jit.github.io/work) | [✈️ Fun](https://avi-jit.github.io/fun) 
 
-I'm Avijit Thawani, a PhD student in Los Angeles. I work on Tokenization within Natural Language Processing. 
+I'm Avijit Thawani, a PhD ~~student~~ from Univ of Southern California in langauge modeling. 
 
 Friends (as if I have any) call me Avi. I enjoy [side-projects](https://avi-jit.github.io/work), [writing](https://thawani.notion.site/), [reading](https://www.goodreads.com/user/show/4791083-avijit-thawani), and [travel](https://avi-jit.github.io/fun).
 

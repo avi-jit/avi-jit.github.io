@@ -11,6 +11,10 @@ In addition to these self-driven products, I love helping startups build proof-o
 <td>Product</td><td>Description</td>
 
 <tr>
+<td> <img src="https://drive.google.com/file/d/1DKAohpnDRZsaTee4HVmLjz7nAXov_ftU/view?usp=sharing" alt="PineGap.ai" style="width:400px;"/></td>
+<td> <a href="https://www.pinegap.ai/">PineGap.ai</a> is a VC-backed startup that disrupts equity research with large language models and generative AI. As a founding MLE/LLM Engineer, I help finetune models, build RAG pipelines, custom evals, LangChains, and deploy these models in prod.</td>
+</tr>
+  
 <td> <img src="https://camo.githubusercontent.com/7f31909c60e3f674f318d20da78b988fce3fda866378932072fa9d4ad3e545e1/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d314a736231466b6556716a4b757a5135417a7865566e792d3375614179555f4c47" alt="Saras edtech chatbot" style="width:400px;"/></td>
 <td> <a href="https://t.me/saras_gpt_bot">Saras</a>  is your personal AI tutor, that I developed as a Telegram chatbot and pitched at the New Venture Seed Contest (we won a $1500 grant) and the USC Trojan Tank (we stood third)! </td>
 </tr>
